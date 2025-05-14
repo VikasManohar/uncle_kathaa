@@ -1,0 +1,181 @@
+/* static/css/about_style.css */
+
+/* 
+  Import Google Fonts. Place this in your main CSS file or link in your HTML <head>.
+  Example:
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+*/
+
+.about-section {
+    background-color: #100f20;
+    /* Dark background from image */
+    color: #e0e0e0;
+    /* Default light text color for paragraphs */
+    padding: 80px 20px;
+    /* Vertical and horizontal padding */
+    font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    /* Default body font */
+    overflow: hidden;
+    /* Prevents signature from causing horizontal scroll if it's too wide and pushed out */
+}
+
+.about-container {
+    max-width: 1200px;
+    /* Max width of the content area */
+    margin: 0 auto;
+    /* Center the container */
+}
+
+.about-content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    /* Allow columns to wrap on smaller screens */
+    gap: 40px;
+    /* Space between text and image columns */
+    align-items: flex-start;
+    /* Align items to the top */
+}
+
+.about-text-column {
+    flex: 1;
+    /* Allows text column to grow */
+    min-width: 320px;
+    /* Minimum width before wrapping */
+    padding-right: 30px;
+    /* Space between text and image sections on larger screens */
+    box-sizing: border-box;
+}
+
+.about-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    /* Responsive font size */
+    color: #d96c50;
+    /* Highlight color for the heading (approximated) */
+    margin-bottom: 35px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.about-text-column p {
+    margin-bottom: 1.4em;
+    line-height: 1.7;
+    font-size: clamp(0.9rem, 1.5vw, 1rem);
+    /* Responsive font size for paragraph */
+}
+
+.about-text-column .highlight {
+    color: #d96c50;
+    /* Highlight color for specific text */
+    font-weight: 700;
+    /* Make highlighted text bold */
+}
+
+.about-image-column {
+    flex: 1;
+    /* Allows image column to grow */
+    min-width: 320px;
+    /* Minimum width before wrapping */
+    position: relative;
+    /* For absolute positioning of the signature */
+    display: flex;
+    justify-content: center;
+    /* Center image if it's narrower than column */
+    align-items: center;
+    /* Vertically center image if needed */
+}
+
+.profile-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    /* Ensures image covers the area nicely */
+    /* 
+      The original image has a strong blue/monochromatic tint. 
+      This is best applied to the image file itself. 
+      A CSS filter can approximate but might not be perfect:
+      filter: grayscale(100%) contrast(1.1) brightness(0.9) sepia(60%) hue-rotate(180deg) saturate(200%);
+    */
+}
+
+.signature {
+    position: absolute;
+    bottom: 20px;
+    /* Position from the bottom of the image column */
+    right: 0px;
+    /* Position from the right of the image column */
+    font-family: 'Dancing Script', cursive;
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    /* Responsive font size for signature */
+    color: #ffffff;
+    /* White color for signature */
+    line-height: 1;
+    font-weight: 700;
+    /* Dancing script often looks better bold for this style */
+    white-space: nowrap;
+    /* Prevents signature from wrapping */
+    /* transform: translateX(5%); /* Optional: slightly push signature to the right */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .about-content-wrapper {
+        flex-direction: column;
+        /* Stack columns */
+    }
+
+    .about-text-column {
+        padding-right: 0;
+        /* Remove right padding when stacked */
+        order: 1;
+        /* Text content first */
+        text-align: left;
+        /* Ensure text is left-aligned */
+    }
+
+    .about-image-column {
+        order: 2;
+        /* Image content second */
+        width: 100%;
+        /* Take full width available */
+        margin-top: 40px;
+        /* Space between text and image */
+    }
+
+    .profile-image {
+        max-width: 80%;
+        /* Control image size on mobile */
+        margin: 0 auto;
+        /* Center the image */
+    }
+
+    .signature {
+        position: relative;
+        /* Change from absolute to relative for flow */
+        bottom: auto;
+        right: auto;
+        text-align: center;
+        /* Center signature below image */
+        margin-top: 20px;
+        /* Space above signature */
+        font-size: clamp(2rem, 5vw, 3rem);
+        /* Adjust signature size for mobile */
+    }
+}
+
+@media (max-width: 480px) {
+    .about-section {
+        padding: 60px 15px;
+    }
+
+    .about-heading {
+        margin-bottom: 25px;
+    }
+
+    .about-text-column p {
+        margin-bottom: 1.2em;
+    }
+}

@@ -1,0 +1,33 @@
+<!-- layouts/partials/about_section.html -->
+{{/* Retrieve 'about' section parameters from site config */}}
+{{ $about_params := .Site.Params.about }}
+
+{{ if $about_params }}
+<section class="about-section">
+    <div class="about-container">
+        <div class="about-content-wrapper">
+            <div class="about-text-column">
+                {{ with $about_params.heading }}
+                <h2 class="about-heading">{{ . | markdownify }}</h2>
+                {{ end }}
+
+                {{ range $about_params.paragraphs }}
+                <p>{{ .text | safeHTML }}</p>
+                {{ end }}
+            </div>
+
+            <div class="about-image-column">
+                {{ if $about_params.image }}
+                <img src="{{ $about_params.image | absURL }}" alt="{{ $about_params.image_alt | default " Profile image"
+                    }}" class="profile-image">
+                {{ end }}
+                {{ if $about_params.signature_text }}
+                <div class="signature">
+                    {{ $about_params.signature_text }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

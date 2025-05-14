@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-05-14T01:22:08+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-14T01:22:08+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mahabharatha/</loc>
+    <lastmod>2024-04-18T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-18T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/story-2--the-story-of-a-dog-sarama/</loc>
+    <lastmod>2024-04-18T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-18T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/story-1-the-origin-emergence-of-mahabharatha/</loc>
+    <lastmod>2024-04-08T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artha-sastra-of-kautilya/</loc>
+    <lastmod>2023-09-30T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</loc>
+    <lastmod>2023-09-30T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/polity/</loc>
+    <lastmod>2023-09-30T23:50:15+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+</urlset>
