@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mahabharatha on Uncle Kathaa</title>
-    <link>http://localhost:1313/tags/mahabharatha/</link>
+    <link>https://example.org/tags/mahabharatha/</link>
     <description>Recent content in Mahabharatha on Uncle Kathaa</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Apr 2024 23:50:15 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mahabharatha/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/mahabharatha/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Story 2- The story of a Dog, Sarama</title>
-      <link>http://localhost:1313/posts/story-2--the-story-of-a-dog-sarama/</link>
+      <title>Story 2 - The story of a Dog, Sarama</title>
+      <link>https://example.org/posts/story-2--the-story-of-a-dog-sarama/</link>
       <pubDate>Thu, 18 Apr 2024 23:50:15 +0530</pubDate>
-      <guid>http://localhost:1313/posts/story-2--the-story-of-a-dog-sarama/</guid>
-      <description>&lt;p&gt;(Vedavyasa Mahabharatam – the story, the ethics, morals &amp;amp; the traditions)
-Very interestingly, the first and the last story of Mahabharata is that of a dog. The king of Hastinapura, Janamejaya (Arjuna’s son is Parikshit and his son is Janamejaya) was performing a satra yāgaṃ assisted by his three brothers- Sruthasena, Ugrasena and Bhimasena. Satra yāgaṃ was supposed to benefit the humanity at large and the king was interested in it.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/story-2--the-story-of-a-dog-sarama/</guid>
+      <description>&lt;h4 id=&#34;vedavyasa-mahabharatam--the-story-the-ethics-morals--the-traditions&#34;&gt;&lt;em&gt;(Vedavyasa Mahabharatam – the story, the ethics, morals &amp;amp; the traditions)&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Very interestingly, the first and the last story of Mahabharata is that of a dog. The king of Hastinapura, Janamejaya (Arjuna’s son is Parikshit and his son is Janamejaya) was performing a &lt;strong&gt;satra yāgaṃ&lt;/strong&gt; assisted by his three brothers- Sruthasena, Ugrasena and Bhimasena. Satra yāgaṃ was supposed to &lt;strong&gt;benefit the humanity&lt;/strong&gt; at large and the king was interested in it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 1 - The Origin and Emergence of Mahabharatha</title>
-      <link>http://localhost:1313/posts/story-1-the-origin-emergence-of-mahabharatha/</link>
+      <link>https://example.org/posts/story-1-the-origin-emergence-of-mahabharatha/</link>
       <pubDate>Mon, 08 Apr 2024 23:50:15 +0530</pubDate>
-      <guid>http://localhost:1313/posts/story-1-the-origin-emergence-of-mahabharatha/</guid>
+      <guid>https://example.org/posts/story-1-the-origin-emergence-of-mahabharatha/</guid>
       <description>&lt;p&gt;Saunaka Maharshi was a kulapati (currently, the word is loosely translated as the Chancellor of a University) and he was having more than ten thousand students in his āśramaṃ at Naimiśāraṇya. Once upon a time, Saunaka Maharshi was performing Satrayāga in the vicinity of his āśramaṃ with the help of all his disciples. Satrayāga was of twelve years long duration and all the rishis were committed to perform it with all sincerity and zeal.&lt;/p&gt;</description>
     </item>
   </channel>
