@@ -4,7 +4,7 @@ draft: false
 title: 'Story 1 - The Origin and Emergence of Mahabharatha'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
-author: 'Karanam Nagarajarao'
+author: "Dr. Karanam Nagarajarao"
 showReadingTime: true
 ShareButtons: ["linkedin", "x", "facebook", "whatsapp"]
 ShowToc: true

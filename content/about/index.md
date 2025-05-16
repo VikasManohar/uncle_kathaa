@@ -3,7 +3,7 @@ date: '2025-05-14T01:22:08+05:30'
 draft: false
 title: 'Dr. Karanam Nagarajarao'
 description: 'Management Educator | Author | Insurance Specialist | Scholar of Indian Heritage'
-author: "Karanam Nagarajarao"
+author: "Dr. Karanam Nagarajarao"
 hidemeta: true
 ShareButtons: ["linkedin", "x", "facebook", "whatsapp"]
 searchHidden: true

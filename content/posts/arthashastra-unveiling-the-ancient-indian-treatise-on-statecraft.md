@@ -4,7 +4,7 @@ draft: false
 title: "Arthashastra: Unveiling the Ancient Indian Treatise on Statecraft"
 # description: ''
 # summary: 'Emergence of Mahabharatha'
-author: "Karanam Nagarajarao"
+author: "Dr. Karanam Nagarajarao"
 showReadingTime: true
 ShareButtons: ["linkedin", "x", "facebook", "whatsapp"]
 ShowToc: true

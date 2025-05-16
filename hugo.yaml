@@ -3,6 +3,9 @@ languageCode: en-us
 title: Uncle Kathaa
 
 theme: ["PaperMod"]
+pagination:
+  pagerSize: 5
+  path: posts
 params:
   label:
     text: "Uncle Kathaa"
@@ -46,16 +49,16 @@ params:
     includeMatches: true
     findAllMatches: false
     location: 0
-    distance: 1000
-    threshold: 0.3
+    distance: 10000
+    threshold: 0.4
     minMatchCharLength: 4
     limit: 10
     keys: ["title", "content"]
   outputs:
     home:
+      - JSON
       - HTML
       - RSS
-      - JSON # necessary for search
 menu:
   main:
     - identifier: Search
@@ -66,6 +69,10 @@ menu:
       name: Mahabharatha
       url: /tags/Mahabharatha
       weight: 2
+    - identifier: Archives
+      name: Archives
+      url: /archives
+      weight: 3
     - identifier: About
       name: About
       url: /about
