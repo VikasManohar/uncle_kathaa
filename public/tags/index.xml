@@ -4,15 +4,36 @@
     <title>Tags on Uncle Kathaa</title>
     <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Uncle Kathaa</description>
-    <generator>Hugo -- 0.147.0</generator>
+    <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 23:50:15 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 23:50:15 +0530</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mahabharatha</title>
       <link>https://example.org/tags/mahabharatha/</link>
-      <pubDate>Thu, 18 Apr 2024 23:50:15 +0530</pubDate>
+      <pubDate>Sat, 19 Jul 2025 23:50:15 +0530</pubDate>
       <guid>https://example.org/tags/mahabharatha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indian Ethos &amp; Management</title>
+      <link>https://example.org/tags/indian-ethos--management/</link>
+      <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
+      <guid>https://example.org/tags/indian-ethos--management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indian History</title>
+      <link>https://example.org/tags/indian-history/</link>
+      <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
+      <guid>https://example.org/tags/indian-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Panchatantra</title>
+      <link>https://example.org/tags/panchatantra/</link>
+      <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
+      <guid>https://example.org/tags/panchatantra/</guid>
       <description></description>
     </item>
     <item>

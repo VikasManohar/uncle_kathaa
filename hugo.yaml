@@ -4,7 +4,7 @@ title: Uncle Kathaa
 
 theme: ["PaperMod"]
 pagination:
-  pagerSize: 5
+  pagerSize: 10
   path: posts
 params:
   label:
@@ -54,11 +54,11 @@ params:
     minMatchCharLength: 4
     limit: 10
     keys: ["title", "content"]
-  outputs:
-    home:
-      - JSON
-      - HTML
-      - RSS
+outputs:
+  home:
+    - JSON
+    - HTML
+    - RSS
 menu:
   main:
     - identifier: Search
