@@ -50,8 +50,8 @@ Satyavati grew up in the fisherman house and by the time she became adolescent, 
 
 While they were in the midst of the river, Parāśara could see her beautiful smiling face with all glean and glory. He could not control the pangs of love. He approached her and asked to fulfil his wish.
 
-**संगमं** **मम** **कळ्याणी** **कुरुष्वेत्यभ्यभाषत** **I**
-**साब्रवीत्** **पश्य** **भगवान्** **पारावारे** **स्थितान्** **ऋषीन्** **II – Adiparva 63.72 [^2]
+**संगमं मम कळ्याणी कुरुष्वेत्यभ्यभाषत |**  
+**साब्रवीत् पश्य भगवान् पारावारे स्थितान् ऋषीन् || – Adiparva 63.72 [^2]**
 
 (‘Oh Lady! You fulfil my wish’, thus he expressed his desire. She said, ‘Hey Bhagavan! Look at those rishis sitting near the shore’).
 
@@ -72,8 +72,8 @@ Satyavathi came back to her house and Dāsarāju was surprised at the aroma of h
 ### Vedavyasa and his contribution
  Vedavyasa is the author and also an actor in Mahabharata. Mahabharata is called as Panchama Veda since it is equivalent to four Vedas in propagation and promotion of dharma. Dharma, Artha, Kāma and Moksha are elaborately discussed in this story in tune with Vedic philosophy. The chapters dealing with Bhagavad Gita, Sanatsujatiyam,Vidura Niti, Yaksha Prasnas, & Vishnu Sahasranama made  Mahabharata an immortal work bequeathed by Vedavyasa to subsequent generations.
 
-**धर्मेचार्थेच कामेच मोक्षेच भरतर्षभ**
-**यदिहास्ति तदन्यत्र यन्नेहास्ति न तत् क्वचित् – Adi Parva 62.53 [^3]**
+**धर्मेचार्थेच कामेच मोक्षेच भरतर्षभ**  
+**यदिहास्ति तदन्यत्र यन्नेहास्ति न तत् क्वचित् – Adi Parva 62.53 [^3]**  
 
 (Whatever is there in Mahabharata is there any where; and what is not hear is not anywhere).
 
@@ -92,9 +92,9 @@ Thus, Vysampayana concluded the story of Veda Vyasa and proceeded to narrate the
 3. ‘Whatever is there in Mahabharata is there any where; and what is not hear is not anywhere’. This statement does not mean all modern sciences such as physics, chemistry, medicine etc. It should be construed that whatever existing knowledge of that time was available in the book of Mahabharata and one need not search for knowledge from anywhere.
 
 [^1]: This Story is taken from Adi Parvam of Mahabharata (Gita Press, Gorakhpur)
-[^2]:saṃgamaṃ mama kaḻyāṇī kuruṣvetyabhyabhāṣata I
-sābravīt paśya bhagavān pārāvāre sthitān ṛṣīn II
-[^3]: dharmecārtheca kāmeca mokṣeca bharatarṣabha
+[^2]:saṃgamaṃ mama kaḻyāṇī kuruṣvetyabhyabhāṣata |  
+sābravīt paśya bhagavān pārāvāre sthitān ṛṣīn ||
+[^3]: dharmecārtheca kāmeca mokṣeca bharatarṣabha  
 yadihāsti tadanyatra yannehāsti na tat kvacit
 [^4]: The following are the eight classical siddhis (_Ashta Siddhi_) or eight supernatural powers:
     * _Aṇimā_: reduce body to atomic size  

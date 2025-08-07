@@ -33,10 +33,10 @@ All serpents assembled at the appointed place to discuss the issue. Some serpent
 
 In the assembly, there were a few kind-hearted and righteous serpents also. They disapproved of the ideas.
 
-**सम्यक्सद्धर्म मूला वै  व्यसने शांन्तिरुत्तमा |**
+**सम्यक्सद्धर्म मूला वै  व्यसने शांन्तिरुत्तमा |**  
 **अधर्मोत्तरता नाम कृत्स्नं व्यापादयेज्जगत् || – Adi parva, 37.20.**
 
-**(‘When danger beacons us, we need to ponder over the issue with equanimity of heart. For avoiding a difficulty, if we tread on the path of adharma, it will lead to destruction of the world’, they suggested. [^2]
+**(‘When danger beacons us, we need to ponder over the issue with equanimity of heart. For avoiding a difficulty, if we tread on the path of adharma, it will lead to destruction of the world’, they suggested. [^2])**  
 
 Vasuki heard the arguments, and being a person on the path of dharma, he suggested that they all should go and seek the suggestion of their father, Kasyapa only. At this point, one little serpent by name Elaputra raised his hood and narrated a secret conversation that he heard between the Gods and Brahmaa. **‘Brahmaa was telling that the curse of Kadruva was for social good, that the serpents were venomous and that the good serpents survive the holocaust. A pious rishi, Astika will born to Jaratkaru (a rishi) and Jaratkaru, the sister of all serpents and stop the sarpa yāga’**.
 
@@ -77,13 +77,10 @@ The lady Jaratkaru reached her brother Vasuki and narrated the turn of events. S
 
 	- The days were witnessing Varna Sankara (intermingling of varnas and the associated problem of unwanted children). In Gita we witness Arjuna apprehending Varna Sankara in case of death of male community in the war. In those days  people were anxious to prevent it. The relevant sloka goes like this:
 	
-		**अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय:**
-			
-		**स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: Gita 1.41**
-			
-		**(adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ**
-		
-		**strīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ-** With the preponderance of vice, the women of the family become immoral; and from the immorality of women, unwanted progeny are born.)
+		**अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय:**  
+		**स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: Gita 1.41**  
+		**(adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ**  
+		**strīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ** - With the preponderance of vice, the women of the family become immoral; and from the immorality of women, unwanted progeny are born.)
 
 	- There was a tendency to insist on the necessity of preserving the chastity and purity of the race. So, the literature relating to law codes prescribed certain restrictions for women in general.
 	
@@ -116,7 +113,7 @@ The story thus encapsulates the concepts of democratic practices of discussion a
 5.  Discuss the practices of different religions with reference to code of conduct for women in ancient societies.
 
 [^1]: This story of Jaratkaru is taken from Adi Parva of Mahabharatha written by sage Vyasa (Gita Press, Gorakhpur)
-[^2]:  samyaksaddharma mūlā vai vyasane śāṃntiruttamā |
+[^2]:  samyaksaddharma mūlā vai vyasane śāṃntiruttamā |  
 adharmottaratā nāma kṛtsnaṃ vyāpādayejjagat ||
 [^3]: Panch Bhutas- The five elements of nature- the earth, the water, the fire, the air and the Akasa (sky)
 [^4]: Āstika, in Indian philosophy, is one that accepts the authority of the Vedas. Anyone who opposes the authority of Vedas is Nāstika.

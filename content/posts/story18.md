@@ -34,8 +34,9 @@ When Devayani did not turn up to home till night, Sukrācārya sent a maid to se
 
 Sukrācārya hurriedly came to the spot to see the plight of his daughter. He heard everything from her. A true Brahmin (guna or qualities define a Brahmin and not mere birth) cannot afford to get excited by the temporary difficulties. He tried to console his daughter:
 
-**आत्मदोषैर्नियच्छन्ति सर्वे दुःखसुखे जनाः I**
-**मन्ये दुश्चरितं तेsस्ति यस्येयं निष्कृतिः कृता II (Adi Parva 78.30)**
+**आत्मदोषैर्नियच्छन्ति सर्वे दुःखसुखे जनाः |**  
+**मन्ये दुश्चरितं तेsस्ति यस्येयं निष्कृतिः कृता || (Adi Parva 78.30)**  
+
 *‘My Dear daughter! Listen. In this world every one of us gets happiness or unhappiness by virtue of our karma (deeds). One must endure the happenings with equanimity and that is the only way to get rid of past mistakes.[^2]* 
 
 But Devayani was not relenting. She said, Oh, Father!  Sarmishta has blamed that you stand before the king arms-fold. Is it true? If it is true, I will go to her and beg pardon from her. Sukrācārya told, ‘it is not certainly true. By the blessings of Bramha I have a lot of power and wealth and all daityas seek my help for all matters. You need not take to your head what Sarmishta told to you out of ignorance. Please come and let us go to the city’. Still Devayani did not agree. Her anger was rebounding with the thought of invectives hurled against her by Sarmishta.
@@ -43,9 +44,9 @@ But Devayani was not relenting. She said, Oh, Father!  Sarmishta has blamed that
 ### Effects of Krodham or anger
 Krodham or anger is self-destructive and destroys the bearer more than the borne. Sukrācārya knew this. He said, ‘My dear daughter! Anger does not give any greatness to anybody. The one who bears the invectives with equanimity and never retaliates is the greatest person upon this earth.
 
-**यो यजेदपरिश्रान्तः मासि मासि शतं समाः ।**
-**न क्रुद्धेद्यश्च सर्वस्य तयोरक्रोधनोsधिकः ।। – Adi Parvam 79.6**
-**(Without any laziness even if a person performs yagna every month for a hundred years, he is considered inferior before a person who never exhibits any anger against anybody) [^3]**
+**यो यजेदपरिश्रान्तः मासि मासि शतं समाः |**  
+**न क्रुद्धेद्यश्च सर्वस्य तयोरक्रोधनोsधिकः || – Adi Parvam 79.6**  
+**(Without any laziness even if a person performs yagna every month for a hundred years, he is considered inferior before a person who never exhibits any anger against anybody) [^3]**  
 He further said, ‘Oh Daughter! Anger is not good for us. An angry person loses his own wife, son, servant, and friend. He loses Dharma and Truth. Please desist from anger’.
 
 Devayani said, ‘I know the Dharma and I can understand your teachings. But the issue is that Sarmishta has blamed me without any basis, and you being a Guru cannot pardon those who deviate the path of Dharma. One should live in the company of sober and good people. I desist from going to the kingdom since they have become immoderate and imprudent. Let us stay away from the king and the kingdom’.
@@ -58,7 +59,7 @@ Years rolled by and one day both Sarmishta and Devayani set out for forest. They
 
 Devayani said,
 
-**संसृष्टं ब्रह्मणा क्षत्रं क्षत्रेण ब्रह्म संहितम् (Adi Parva 81.19)**
+**संसृष्टं ब्रह्मणा क्षत्रं क्षत्रेण ब्रह्म संहितम् (Adi Parva 81.19)**  
 ‘Hi, Maharaj, for long the both Varnas- Bramhins and Khatriyas are getting united. So, you can marry me’ [^4] pleaded Devayani. She requested her father, Sukrācārya to interfere in the matter. Yayāti was afraid of the sin of वर्ण सांकर्यं (Varṇa sāṃkaryaṃ) and he requested that he should be exonerated from the sin. Sukrācārya agreed and consented for the marriage of a Kshatriya with a Brahmin girl.
 
 But, before marriage he put a condition to Yayāti that he should not develop any affair with Sarmishta (now a slave to Devayani).
@@ -80,9 +81,9 @@ In our next story, we will see if Yayāti had obliged to the words of Sukrācār
 	
 	Varṇa sāṃkaryaṃ means inter-mingling of Varnas by virtue of marriages. This was being frowned at or not encouraged though they were happening in Mahabharata times also.  In Gita Arjun talks of Varṇa sāṃkaryaṃ and he says that it results in Pitru Devatas becoming unhappy. He says:
 	
-	**सङ्करो नरकायैव कुलघ्नानां कुलस्य च |**
-	**पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया: || [^7] Gita1. 42.**
-	**(Increase in unwanted children results in hellish life both for the family and for those who destroy the family. Deprived of sacrificial offerings, the ancestors of such corrupt families also fall).**
+	**सङ्करो नरकायैव कुलघ्नानां कुलस्य च |**  
+	**पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया: || [^7] Gita1. 42.**  
+	**(Increase in unwanted children results in hellish life both for the family and for those who destroy the family. Deprived of sacrificial offerings, the ancestors of such corrupt families also fall).**  
 	In the story of Dharmavyadha, we witness Dharmavyadha saying that the king Janaka was protecting the Varna system, and he was never allowing Varṇa sāṃkaryaṃ. Likewise in many other places, we find the kings protecting the rhythm of Varna Dharma as one of their duties.
 	
 	In the present story we find Devayani (a Brahmin) seeking the marriage with Yayāti (a Kshatriya) thereby violating the principle of Varna Dharma. She justifies it and seeks the help of her father Sukrācārya, who is known for his scholarship of Sastras. When Yayāti was afraid of Varṇa sāṃkaryaṃ, Sukrācārya permitted their marriage and exonerated Yayāti from the sin.
@@ -100,12 +101,12 @@ In our next story, we will see if Yayāti had obliged to the words of Sukrācār
 
 
 [^1]: This story is drawn from Adi Parva of Maha Bharata written by sage Vyasa.
-[^2]: ātmadoṣairniyacchanti sarve duḥkha sukhe janāḥ
+[^2]: ātmadoṣairniyacchanti sarve duḥkha sukhe janāḥ  
 manye duścaritaṃ ta tessti yasyeyaṃ niṣkṛtiḥ kṛtā (Adi Parva 78.30)
-[^3]: yo yajedapariśrāntataḥ māsi māsi śataṃ samāḥ
+[^3]: yo yajedapariśrāntataḥ māsi māsi śataṃ samāḥ  
 na kruddhedyaśca sarvasya tayorakrodhanosdhikaḥ – Adi Parvam 79.6
 [^4]: saṃsṛṣṭaṃ brahmaṇā kṣatraṃ kṣatreṇa brahma saṃhitam (Adi Parva 81.19)
 [^5]: pūṣātveto nayatu hastagṛhya aśvinautvā pravāhatān radena gṛhān gaccha gṛhapatnī yadhasovaśi nītvaṃ vivadhaṃ avadāsi
-[^6]: cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśa:
-[^7]: saṅkaro narakāyaiva kulaghnānāṃ kulasya ca |
+[^6]: cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśa:  
+[^7]: saṅkaro narakāyaiva kulaghnānāṃ kulasya ca |  
 patanti pitaro hyeṣāṃ luptapiṇḍodakakriyā: || Gita1.42.

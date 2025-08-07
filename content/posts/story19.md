@@ -22,9 +22,9 @@ The Kshatriya king Yayāti married Devayani, a Brahmin on the orders of Sukracha
 ### The Story
 Yayāti came back from the hermitage of Sukracharya and started ruling the country with Mahendrapuram as his capital. When Devayani attained puberty, she was blessed with a son.
 
-**ऋतुकाले तु सम्प्राप्ते देवयानी वराङ्गना I**
-**लेभे गर्भं प्रथमतः कुमारञ्च व्यजायत II [^2] – Adi Parva 82. 5**
-**(When she attained puberty, she became pregnant and gave birth to her first son).**
+**ऋतुकाले तु सम्प्राप्ते देवयानी वराङ्गना |**  
+**लेभे गर्भं प्रथमतः कुमारञ्च व्यजायत || [^2] – Adi Parva 82. 5**  
+**(When she attained puberty, she became pregnant and gave birth to her first son).**  
 After a passage of one thousand years, Sarmishta also attained puberty. She wanted to marry a right person, but the question is how to get hold of such person while serving as Dasi to Devayani? She looked at Devayani and her success in life. ‘While she can marry a king of her choice, why can’t I marry as per my choice?’ she thought. She was looking for an opportunity.
 
 One day she saw the king Yayāti was roaming in his garden. Without any hesitation, she approached the king and praised him profusely and she modestly asked him, ‘Oh king! You know my lineage, my character and my features. I belong to Kshatriya clan and out of necessity I became the Dasi of Devayani. Now that I attained puberty, I beg your great self to do justice to me’.
@@ -38,9 +38,9 @@ She continued, **‘Oh King! Devayani is your wife, and you have every right ove
 ‘No, not at any point of time!’, interrupted Yayāti. ‘I cannot be untruthful. Tell me your wish’. 
 Sarmishta said,
 
-**अधर्मात् पाहि मां राजन् धर्मञ्च प्रतिपादय I**
-**त्वत्तोपत्यवती लोके चरेयं धर्ममुत्तमम् II [^3] Adi Parva 82.21**
-**(Oh king, perform Dharma and protect me from adharma. With your grace I will become mother and practice the great Dharma’)**
+**अधर्मात् पाहि मां राजन् धर्मञ्च प्रतिपादय |**  
+**त्वत्तोपत्यवती लोके चरेयं धर्ममुत्तमम् || [^3] Adi Parva 82.21**  
+**(Oh king, perform Dharma and protect me from adharma. With your grace I will become mother and practice the great Dharma’)**  
 ‘One’s own wife, one’s own servant, and one’s own son - all the three have no authority over wealth. Their wealth belongs to those who have authority over them (Adi Parva 82. 22). This is Dharma.  I am the property of Devayani and you, being her husband, have control over all her wealth’.
 
 The intellectual argument of Sarmishta had the final sway. The king could not refute her arguments, and he honoured her request.
@@ -66,11 +66,11 @@ Yayathi enjoyed the pleasures of worldly life for thousand years. His desires di
 
 He famously said:
 
-**न जातु कामः कामानामुपभोगेन शाम्यति ।**
-**हविषा कृष्णवर्त्मैव भूय एवाभिवर्धते ॥ [^4] (Adi Parva 85.12)**
-**यत् पृथिव्यां व्रीहि यवं हिरण्यं पशवः स्त्रियः ।**
-**एकस्यापि न पर्याप्तं तस्मात्तृष्णाम् परित्यजेत् ॥ [^5] (Adi Parva 85.13)**
-**(As long as you are enjoying sensual pleasures, they keep on increasing. Just as the flakes of fire flare up on consuming each firewood, the desires keep on growing on enjoying them again and again’**
+**न जातु कामः कामानामुपभोगेन शाम्यति |**  
+**हविषा कृष्णवर्त्मैव भूय एवाभिवर्धते || [^4] (Adi Parva 85.12)**  
+**यत् पृथिव्यां व्रीहि यवं हिरण्यं पशवः स्त्रियः |**  
+**एकस्यापि न पर्याप्तं तस्मात्तृष्णाम् परित्यजेत् || [^5] (Adi Parva 85.13)**  
+**(As long as you are enjoying sensual pleasures, they keep on increasing. Just as the flakes of fire flare up on consuming each firewood, the desires keep on growing on enjoying them again and again’**  
 ‘Whatever the wealth- gold, grains, and girls that is there in this world is not sufficient for a single person. They don’t satiate his desires. So, one should abandon or drop out the desires from the mind’)
 
 ### The Coronation of Pooru
@@ -108,11 +108,11 @@ What happened to Yayāti later? We shall discuss in our next episode.
 3. The tribes in India are broadly from common progenitor. Can this awareness help in reducing tensions among tribes and States of modern India? 
 
 [^1]:This story is taken from Adi Parva of Mahabharata written by sage Vedavyasa
-[^2]:ṛtukāle tu samprāpte devayānī varāṅganā I
-lebhe garbhaṃ prathamataḥ kumārañca vyajāyata II
-[^3]:adharmāt pāhi māṃ rājan dharmañca pratipādaya I
-tvattopatyavatī loke careyaṃ dharmamuttamam II
-[^4]:na jātu kāmaḥ kāmānāmupabhogena śāmyati ।
-haviṣā kṛṣṇavartmaiva bhūya evābhivardhate ॥
-[^5]:yat pṛthivyāṃ vrīhi yavaṃ hiraṇyaṃ paśavaḥ striyaḥ ।
-ekasyāpi na paryāptaṃ tasmāttṛṣṇām parityajet ॥
+[^2]:ṛtukāle tu samprāpte devayānī varāṅganā |  
+lebhe garbhaṃ prathamataḥ kumārañca vyajāyata ||
+[^3]:adharmāt pāhi māṃ rājan dharmañca pratipādaya |  
+tvattopatyavatī loke careyaṃ dharmamuttamam ||
+[^4]:na jātu kāmaḥ kāmānāmupabhogena śāmyati |  
+haviṣā kṛṣṇavartmaiva bhūya evābhivardhate ||
+[^5]:yat pṛthivyāṃ vrīhi yavaṃ hiraṇyaṃ paśavaḥ striyaḥ |  
+ekasyāpi na paryāptaṃ tasmāttṛṣṇām parityajet ||

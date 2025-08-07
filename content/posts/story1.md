@@ -30,13 +30,13 @@ Ugrasrava started telling. ‘Oh Rishis, Mahabharata is the largest ever known s
 
 ## **Vyasa, the author and Ganesha, the writer**
 
-‘But who would write it? Vedavyasa invited Brahmā to his place and sought his help in arranging a writer who can match his speed of articulation. Brahmā suggested to take the help of Ganesha in his endeavour.
+‘But who would write it?’ Vedavyasa invited Brahmā to his place and sought his help in arranging a writer who can match his speed of articulation. Brahmā suggested to take the help of Ganesha in his endeavour.
 
 When Ganesha arrived at Himalayas, Vedavyasa sought his help in writing the book of Mahabharata. Ganesha thought for a while and said, ‘Yes, I can write while you recite the slokas. But I have a condition. You should keep telling and never allow my pen to stop even for a second’. This is a big challenge, given the speed of Ganesha in writing things. Vedavyasa thought for a while and said, ‘Yes. I can never let your pen stop even for a second. But I too have a condition – you should write only after understanding whatever I recite. You cannot write monotonously’. Ganesha agreed and both sat for about three years to complete the project.
 
 Saunaka was surprised and said, ‘Did Vyasa narrate the story non-stop?’
 
-‘No. To gain time, here and there he recited slokas which can have multiple meanings and not very easy to decipher. Ganesh has to sit back, ponder over the correct meaning and then he was writing. By that time, Vedavyasa could conceive a few dozen slokas to keep engage the attention of Ganesha.  **In this way Vyasa recited around eight thousand eight hundred difficult slokas which are popularly known as ‘Grandh Grandhi’ (Grandhi means a knot)’.**
+‘No. To gain time, here and there he recited slokas which can have multiple meanings and not very easy to decipher. Ganesh has to sit back, ponder over the correct meaning and then he was writing. By that time, Vedavyasa could conceive a few dozen slokas to keep engage the attention of Ganesha. **In this way Vyasa recited around eight thousand eight hundred difficult slokas which are popularly known as ‘Grandh Grandhi’ (Grandhi means a knot)’.**
 
 They, thus, completed compiling Mahabharata in around three years’ time.
 

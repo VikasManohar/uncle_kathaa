@@ -87,6 +87,6 @@ For the king, who should be his daughter-in-law was decided upon; but where is t
 
 [^1]: This story is from Adi Parva of Maha Bharata written by sage Ved Vyasa.
 [^2]: The Ashta Vasus (Eight Vasus) are a group of eight deities associated with elemental forces in Hindu mythology. They are Aap (Water), Dhruv (Pole Star), Soma (the Moon), Dhara (the Earth), Anala (Fire), Anila (Wind), Pratyush (Sky), Prabhas (the Sun). The Ashta Vasus are a group of Deva Ganams with divine powers.
-[^3]: Sapta Rishis are a group of seven sages, often considered as the most spiritually advanced human beings who are believed to be responsible for preservation and transmission of Vedic wisdom and practices. The rishis are - Kashyapa, Atri, Bharadwaja,Viswamitra,Gautama,Vasishta, and Jamadagni.
-“कश्यपोऽत्रिर्भरद्वाजो विश्वामित्रोऽथ गौतमः ।
-वशिष्ठो जमदग्निश्च सप्तैते ऋषयः स्मृताः ॥
+[^3]: Sapta Rishis are a group of seven sages, often considered as the most spiritually advanced human beings who are believed to be responsible for preservation and transmission of Vedic wisdom and practices. The rishis are - Kashyapa, Atri, Bharadwaja,Viswamitra,Gautama,Vasishta, and Jamadagni.  
+“कश्यपोऽत्रिर्भरद्वाजो विश्वामित्रोऽथ गौतमः |  
+वशिष्ठो जमदग्निश्च सप्तैते ऋषयः स्मृताः ||

@@ -27,7 +27,7 @@ Janamejaya was a child when he ascended the throne of Hastinapura and he was not
 
 We all know the story of Abhimanyu, the son of Arjuna who fought ferociously and finally fell in the Maha Bharata war. Abhimanyu’s son was Parīkṣit who ruled the country upholding dharma in the twilight zone of Treta Yuga and the dawn of Kali Yuga.
 
-**स्थिताः सुमनसो राजन्  तेन राज्ञा स्वधिष्ठिताः**
+**स्थिताः सुमनसो राजन्  तेन राज्ञा स्वधिष्ठिताः**  
 **विधवानाथ विकलान् कृपणांश्च बभार सः – Adi Parva 49.11**
 
 **(He was so popular that he introduced number of welfare activities for the sake of widows, orphans, and handicapped and depressed sections of people and was bearing all their expenses [^2]).**
@@ -40,9 +40,9 @@ Srungi was the son of Samīka. He was as powerful as his father in tapas, but he
 
 ‘What a wrong thing you have done, my dear son? The king has been upholding dharma in this universe; and by his death, there will be none to safeguard dharma. All of us are under his protection and with his death we all will perish’, Samīka told. He further added,
 
-**राज्ञा प्रतिष्ठितो धर्मः धर्मात् स्वर्गः प्रतिष्ठितः|
-राज्ञो यज्ञ क्रियास्सर्वा यज्ञाद् देवाः प्रतिष्ठिताः||
-देवाद्वृष्टिः प्रवर्तेत वृष्टेरोषधयः स्मृताः|
+**राज्ञा प्रतिष्ठितो धर्मः धर्मात् स्वर्गः प्रतिष्ठितः|  
+राज्ञो यज्ञ क्रियास्सर्वा यज्ञाद् देवाः प्रतिष्ठिताः||  
+देवाद्वृष्टिः प्रवर्तेत वृष्टेरोषधयः स्मृताः|  
 ओषधिभ्यो मनुष्याणां धारयन् सततं हितम्|| -Adi Parva 41- 29,30**
 
 (‘The king establishes righteousness in the world. We can perform yagnas and thereby do social good under his protection only. The gods are pleased when we perform yagnas and they, in turn bless the world with rains; and through rains, the flora & fauna flourish [^3]). What you have done is out of your utter ignorance and foolishness and I admonish you’.

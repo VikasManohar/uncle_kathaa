@@ -25,8 +25,8 @@ On the advice of sage Vedavyasa, Vysampayana started narrating the story of Maha
 ### Asuras & Their Plan
 Once upon a time the Gods performed a great Yagna running for hundreds of human years in the heaven. All Gods including the God of death, Yama participated in the event. There was no death upon the earth and the humans survived for hundreds of years. This was the occasion for Asuras to establish their supremacy upon earth. पाताळ लोक (pātāḻa loka ) was the abode of Asuras. While Gods were busy in the heaven, Asuras from pātāḻa loka started taking birth upon the earth in different kingly families, thereby destroying the dharmic equilibrium upon the earth.
 
-**इह देवत्वमिच्छन्तः मानुषेषु मनस्विनः I**  
-**जज्ञिरे भुवि भूतेषु तेषु तेष्वसुरा विभो II – Adi Parvam 64.29 [^2]**  
+**इह देवत्वमिच्छन्तः मानुषेषु मनस्विनः |**    
+**जज्ञिरे भुवि भूतेषु तेषु तेष्वसुरा विभो || – Adi Parvam 64.29 [^2]**  
 
 **(Desiring the authority and lordship, the Asuras of esteem were born to human beings and other living creatures upon this earth).**
 
@@ -61,9 +61,9 @@ Janamejaya was very happy and said, ‘Oh Sage! I am very much pleased and happy
 3. Duryodhana was the incarnation of Kali Purusha. Mahabharata war was fought almost at the end of Dvapara Yuga. Duryodhana who belonged to Dvapara Yuga firmly established the systems of Kali, and there is no doubt, his practices are being followed majority of people now.
 
 [^1]: This Story is taken from Adi Parvam of Mahabharata (Gita Press, Gorakhpur)
-[^2]: iha devatvamicchaṃtaḥ mānuṣeṣu manasvinaḥ I
-jajñire bhuvi bhūteṣu teṣu teṣvasurā vibho II
+[^2]: iha devatvamicchaṃtaḥ mānuṣeṣu manasvinaḥ |  
+jajñire bhuvi bhūteṣu teṣu teṣvasurā vibho ||
 [^3]: Angādhara, Anila, Anala, Aha, Pratyūṣa, Prabhāsa, Soma, Dhruva are eight brothers who are known as Astavasus.
 [^4]: Upa Pandavas are the five sons of Pandu Maharaj. They are born to Draupadi from Dharmaraja, Bhima, Arjuna, Nakula & Sahadeva. They are Prativindya, Srutasoma, Srutakīrti, Satānīka and Srutasena respectively. They are basically Visvedevas. Vishnu Purana says that they are the sons of Vishvā, a daughter of Daksha Prajapati. The five Gods were cursed by sage Visvamitra when they ridiculed Visvamitra’s sagacity in harassing Chandramati, the wife of Harischandra. In the Rig Veda there are fifty-eight independent suktas in praise of them. Visvedevas are known in Vedic literature for their tapas in order to propitiate the pitru or the departed forefathers. Hence even today they have the primary place in Shraddhas (annual Vedic rituals to propitiate the dead persons).
-श्राद्धेऽस्माकं भवेदंशो ह्येष नः काङ्क्षितो वरः ।  
-अस्माकं कल्पिते श्राद्धे युष्मानग्रासनं ह वै ।।-  (Vayu Purana. 2.14. 10 and 12)  
+श्राद्धेऽस्माकं भवेदंशो ह्येष नः काङ्क्षितो वरः ।    
+अस्माकं कल्पिते श्राद्धे युष्मानग्रासनं ह वै ।। - (Vayu Purana. 2.14. 10 and 12)  

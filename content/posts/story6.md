@@ -41,9 +41,8 @@ Uttanka did not see the logic in the argument of the king. He asked the king to 
 
 Paushya replied, ‘I am unable to reverse or modify the curse given to you since my anger against you has not come down’.
 
-**नवनीतं हृदयं ब्राह्मणस्य, वाचि क्षुरो निशितः तीक्ष्णधारः|.**
-
-**तद् उभयम् एतत् विपरीतं क्षत्रियस्य, वाङ् नवनीतं हृदयं तीक्ष्णधारम् । – Adi Parva 3.123**
+**नवनीतं हृदयं ब्राह्मणस्य, वाचि क्षुरो निशितः तीक्ष्णधारः |**  
+**तद् उभयम् एतत् विपरीतं क्षत्रियस्य, वाङ् नवनीतं हृदयं तीक्ष्णधारम् | – Adi Parva 3.123**
 
  **‘It is a known fact that a Bramhin’s talk is razor like knife, but the heart is like butter that mellows. In respect of a Kshatriya both are opposite - the heart is harsh, and the talk is sweet’ [^1]
 

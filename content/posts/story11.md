@@ -76,13 +76,14 @@ Much research has already been done on the efficacy of darbha grass. Traditiona
 
 
 [^1]: This story is taken from Adi Parva of Maha Bharata (Gita Press, Gorakhpur) written by sage Ved Vyasa.
-[^2]:  ततः सुपर्ण माता तामावहत्सर्प मातरम्।
-पन्नगान्ग रुडश्चापि मातुर्वचन चोदितः।। – Adi Parva 25.5
-_tataḥ suparṇa mātā tāmāvahatsarpa mātaram।
+[^2]:  ततः सुपर्ण माता तामावहत्सर्प मातरम्।  
+पन्नगान्ग रुडश्चापि मातुर्वचन चोदितः।। – Adi Parva 25.5  
+_tataḥ suparṇa mātā tāmāvahatsarpa mātaram।  
 pannagān garuḍaścāpi  māturvacana coditaḥ।।_
-[^3]: विष्णुना च तदाकाशे वैनतेयः समेयिवान्।
-तस्य नारायणस्तुष्टः तेनाऽलौल्येन कर्मणा।। – Adi Parva 33.12
-_viṣṇunā ca tadākāśe vainateyaḥ sameyivān।
+[^3]: विष्णुना च तदाकाशे वैनतेयः समेयिवान्।  
+तस्य नारायणस्तुष्टः तेनाऽलौल्येन कर्मणा।। – Adi Parva 33.12  
+_viṣṇunā ca tadākāśe vainateyaḥ sameyivān।  
 tasya nārāyaṇastuṣṭaḥ tenā’laulyena karmaṇā।।_
-[^4]: कनिष्ठान्  पुत्रवत् पश्येत् ज्येष्ठो भ्रात्रा पितुस्समः  (kaniṣṭhān  putravat paśyet jyeṣṭho bhrātrā pitussamaḥ ) - (Neelakanta vyakhya on Maha Bharata)
+[^4]: कनिष्ठान्  पुत्रवत् पश्येत् ज्येष्ठो भ्रात्रा पितुस्समः  
+(kaniṣṭhān  putravat paśyet jyeṣṭho bhrātrā pitussamaḥ ) - (Neelakanta vyakhya on Maha Bharata)
 [^5]: **Madhu vidya -** This knowledge is vividly mentioned in Bruhadaranyaka and Chandagyopanishad. It establishes the presence of Jnani in all elements; and all elements within himself. The relationship between the elements of external world and the individual is analogous to the relationship of bees with honey.

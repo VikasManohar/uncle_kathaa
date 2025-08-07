@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Polity on Uncle Kathaa</title>
-    <link>https://example.org/tags/polity/</link>
+    <link>http://localhost:1313/tags/polity/</link>
     <description>Recent content in Polity on Uncle Kathaa</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Sep 2023 23:50:15 +0530</lastBuildDate>
-    <atom:link href="https://example.org/tags/polity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/polity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arthashastra: Unveiling the Ancient Indian Treatise on Statecraft</title>
-      <link>https://example.org/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</link>
+      <link>http://localhost:1313/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</link>
       <pubDate>Sat, 30 Sep 2023 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</guid>
+      <guid>http://localhost:1313/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Greetings, fellow seekers of knowledge! As we mark the first anniversary of our blog, let’s delve into the profound realms of ancient Indian wisdom with a focus on the Arthashastra, a seminal text attributed to the renowned scholar Chanakya, also known as Kautilya. Join us on this journey as we unravel the intricacies of statecraft, governance, and strategy embedded within the pages of this timeless treatise.&lt;/p&gt;
 &lt;p&gt;The Sage Behind the Scrolls: Begin by acquainting yourself with Chanakya, the brilliant strategist, philosopher, and mentor to Emperor Chandragupta Maurya. Explore the historical context in which the Arthashastra was composed, shedding light on the political landscape of ancient India.

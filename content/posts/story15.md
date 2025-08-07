@@ -29,17 +29,17 @@ There lived an emperor named Dushyantha in the Puru dynasty ruling from Hastinap
 
 To his surprise he saw a beautiful young lady receiving him with all grace. She invited the guest with all honor and respect and with a shy in her face asked as to what she can do for him[^2]. He was enchanted by her looks and appearance. He revealed his identity as the emperor of the earth and inquisitive to know her lineage. Sakunthala said that she was born to sage Viswamitra and the celestial Menaka [^3]. Instantaneously he expressed his love and his intention to marry her. She agreed but asked him to wait till the sage came back from his penance. But Dushyantha was eager to marry her. Since a marriage is permitted if both the bride and the groom are in consonance, he offered to take her as his wife by **गांधर्व** **विवाह** - Gāndharva vivāha [^4]. Sankuthala was hesitating as she was in the care of sage Kanva and wanted to get his permission. But Dushyantha said,
 
-**आत्मनो बंधु रात्मैव गति रात्मैव चात्मनःI**
-**आत्मनो मित्र मत्त्रैव तथा त्मा चात्मनः पिता II**
-**आत्मैनात्मनो दानं कर्तु मर्हसि धर्मतः II  – Adi Parva 73.7**
+**आत्मनो बंधु रात्मैव गति रात्मैव चात्मनः |**  
+**आत्मनो मित्र मत्त्रैव तथा त्मा चात्मनः पिता ||**  
+**आत्मैनात्मनो दानं कर्तु मर्हसि धर्मतः ||  – Adi Parva 73.7**
 
 (‘You are your own relation. You are under your care. You are your own friend. You are your own father. As per dharma you can give away yourself to charity’ [^5]
 
 Since Gandharva was an accepted form of marriage, he persuaded her further and requested as to what he could do for her. Sakuntala was convinced with the logical and dharmic arguments and she put a condition that Dushyantha should make her son the heir apparent to the throne. Dushyantha agreed, and in no time the marriage was solemnized. He promised that he would send a royal entourage to the hermitage to take her in procession. Since he cannot stay there leaving the kingdom, he left for Hastinapura before the sage could arrive at the hermitage.
 
 After a few minutes, the sage returned to his Ashram and came to know about the marriage. Sakuntala was afraid of meeting the sage as she had transgressed swadharma (**स्वधर्मात् स्खलिता भीता**). Since both Dushyantha and Sakunthala happened to be Kshatriyas and Gandharva was permitted by Sastras, he blessed Sakunthala without any hesitation.
-**क्षत्रियस्य हि गांधर्व: विवाहः श्रेष्ठ उच्यते I**
-**स कामया: स कामेव निर्मन्त्रो रहसि स्मृतःII –  Adi Parva 73.27**
+**क्षत्रियस्य हि गांधर्व: विवाहः श्रेष्ठ उच्यते |**  
+**स कामया: स कामेव निर्मन्त्रो रहसि स्मृतः || –  Adi Parva 73.27**
 
 (A Kshatriya lady meeting the willing person out of her own will in a secret place and getting Gāndharva vivāha without mantras is acceptable as per dharma [^6]
 
@@ -51,7 +51,7 @@ On one side there was miserable distress and on the other side there was uncontr
 
 Since there was no response from Dushyantha, she started invoking a few more dharmic points of argument. ‘A son is a disguised father. The husband enters into wife and born out of wife as a son. Hence wife is also known as jāya (**जाय**) [^8].A son relieves the father and his forefathers from an exclusive ‘puth’ hell [^9] as per sastras. That son has now reached your court and still you are neglecting him’.
 
-**भार्या मूलं त्रिवर्गस्य भार्या मूलं तरिष्यतः – Adi Parva 74.41**
+**भार्या मूलं त्रिवर्गस्य भार्या मूलं तरिष्यतः – Adi Parva 74.41**  
 (‘As per sastras, a wife is the queen of the house and without her no man in the stage of grihasta attains dharma, artha and kama [^10]). You cannot evade or disown your own wife.
 
 **आत्मा आत्मनैव जनितः पुत्र इत्युच्यते बुधै: |
@@ -67,8 +67,8 @@ Then Sakuntala started appealing to the emotional feeling of a man as a father. 
 Dushyanta was adamant and was not willing to accept Sakuntala. ‘You have been talking like a prostitute since you were born out of lust. I don’t even remember you’.
 
 Sakuntala got enraged at the deceitful nature of her husband. ‘Afterall, why should he lie’? She said,
-**वरं कूपशताद्वापी वरं वापीशताद्क्रतु: |
-वरं क्रतुशतात्पुत्र: सत्यं पुत्रशताद्वरं II [^12] – Adi Parva 74.102**
+**वरं कूपशताद्वापी वरं वापीशताद्क्रतु: |**    
+**वरं क्रतुशतात्पुत्र: सत्यं पुत्रशताद्वरं || [^12] – Adi Parva 74.102**
 
 (One water well is greater than a hundred stepped wells. One yagna is greater than a hundred sons. One Truth is greater than hundred sons.)
 
@@ -101,25 +101,25 @@ Vysampayana concluded the story of Sakuntala, and Janamejaya was delighted.
 [^2]: उवाच स्मयमानेव किं कार्यं क्रियतामिति (Adi Parva 71.6)
 [^3]: Menaka was one of the Apsara ladies in the court of Lord Indra. The literal meaning is one who dwells in water/ clouds (अप्सु सरति इति अप्सरसा). Rambha, Tilottama, Urvasi etc are other Apsarasas.
 [^4]: गांधर्व विवाह – Gāndharva vivāha  – (In ancient Indian society we find eight methods of marriage, one of them being Gāndharva marriage. The other seven are: Brahma, Daiva, Arya, Prajapatya, Asura, Raksasa and Paisacha)
-[^5]: ātmano baṃdhu rātmaiva gati rātmaiva cātmanaḥ
-ātmano mitra mattraiva tathā tmā cātmanaḥ pitā
+[^5]: ātmano baṃdhu rātmaiva gati rātmaiva cātmanaḥ  
+ātmano mitra mattraiva tathā tmā cātmanaḥ pitā  
 ātmainātmano dānaṃ kartu marhasi dharmataḥ – Adi Parva 73.7
-[^6]: क्षत्रियस्य हि गांधर्व:  विवाहः श्रेष्ठ उच्यते
-स कामया: स कामेव निर्मन्त्रो रहसि स्मृतः  –  Adi Parva 73.27
-[^7]: एकोहामस्मीति च मन्यसे त्वं
-न हृच्चयंवेत्सि मुनिं पुराणम्
-यो वेदिता कर्मणः पापकस्य
-तस्यांतिके त्वं वृजिनं करोषि  – Adi Parva 74.28
-[^8]: भार्याम् पतिः संप्रविश्य स यस्माज्जायते पुनः
+[^6]: क्षत्रियस्य हि गांधर्व:  विवाहः श्रेष्ठ उच्यते  
+स कामया: स कामेव निर्मन्त्रो रहसि स्मृतः – Adi Parva 73.27
+[^7]: एकोहामस्मीति च मन्यसे त्वं  
+न हृच्चयंवेत्सि मुनिं पुराणम्  
+यो वेदिता कर्मणः पापकस्य  
+तस्यांतिके त्वं वृजिनं करोषि – Adi Parva 74.28
+[^8]: भार्याम् पतिः संप्रविश्य स यस्माज्जायते पुनः  
 जायायास्तद्दि जायात्वं पौराणाः कवयो विदु: – Adi Parva 74.37.
 [^9]: Puth hell also known as Punnaama naraka.( पुन्नाम नरकः) – According to Hindu tradition, the three generations of forefathers cannot cross a hell by name ‘Punnama naraka’ if their lineage is broken at any stage for want of progeny. A son is called Putra because he saves the three generations from this hell (पुन्नाम नरकात् त्रायते इति पुत्र:). This concept of Punnama Naraka has no place in Vedanta literature. Like many traditions, this is an accidental accretion to Hindu society.**
 [^10]: bhāryā mūlaṃ trivargasya bhāryā mūlaṃ tariṣyataḥ – Adi Parva 74.41
-[^11]: ātmā ātmanaiva janitaḥ putra ityucyate budhai:
+[^11]: ātmā ātmanaiva janitaḥ putra ityucyate budhai:  
 tasmād bhāryām naraḥ paśyet mātṛvat putramātaram – Adi Parva 74.48.
-[^12]: varaṃ kūpaśatādvāpī varaṃ vāpīśatādkratu:
+[^12]: varaṃ kūpaśatādvāpī varaṃ vāpīśatādkratu:  
 varaṃ kratuśatātputra: satyaṃ putraśatādvaraṃ – Adi Parva 74.102
-[^13]: अहं चाप्येवमेवैनं जानामि स्वयमात्मजम् |
-यद्यहं वचनादस्या: गृह्णीयामि ममात्मजम्
+[^13]: अहं चाप्येवमेवैनं जानामि स्वयमात्मजम् |  
+यद्यहं वचनादस्या: गृह्णीयामि ममात्मजम्  
 भवेद्धि शंक्यो लोकस्य नैव शुद्धो भवेदयं – Adi parva 74.117
-[^14]: मन्यते चैव लोकस्ते स्त्री भावान्मयि संगतम्
+[^14]: मन्यते चैव लोकस्ते स्त्री भावान्मयि संगतम्  
 पुत्रश्चायं वृतोराज्ये मया तस्माद् विचारितम्  –  Adi Parva 74.123

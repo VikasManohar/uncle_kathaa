@@ -26,8 +26,8 @@ By virtue of his meritorious deeds Yayāti entered Amaravati, the celestial city
 
 One day Lord Indra approached Yayāti and said, ‘Hi Yayāti! You have been in heaven for thousands of years. Is there any other person upon the earth who equals with your meritorious acts? Yayāti replied,
  
-**नाऽहं देव मनुष्येषु गन्धर्वेषु महर्षिषु।**
-**आत्मनस्तपता तुल्यं कञ्चित्पश्यामि वासव! II [^2]– Adi Parva 88.2**
+**नाऽहं देव मनुष्येषु गन्धर्वेषु महर्षिषु |**  
+**आत्मनस्तपता तुल्यं कञ्चित्पश्यामि वासव! || [^2]– Adi Parva 88.2**  
 
 (‘My Dear Indra, I have not seen anybody so far among humans, gods, gandharvas or rishis who is as powerful as I am in the matters of tapas and austerity)
 
@@ -37,8 +37,8 @@ Yayāti realized that his fall was due to his ego. He accepted the imminent fate
 
 Ashtaka, a rishi saw Yayāti falling upon the earth where Ashtaka and his associates used to conduct Yagnas. He was awestruck by the spiritual aura of Yayāti and enquired as to who he was and as to why he was falling upon earth. Yayāti was happy that he had fallen to a place resided by good people. He narrated his entire story (see our previous two stories) and how his merits were wiped out by demeaning the tapas of others.
 
-**ज्ञातिः सुहृत्स्वजनो वा यथेह क्षीणे वित्ते त्यजते मानवैर्हिI**
-**तथा तत्र क्षीण पुण्यं मनुष्यं त्यजन्ति सद्यः सेश्वरा देव सङ्घा:II [^3] – Adi Parva 90.2.**
+**ज्ञातिः सुहृत्स्वजनो वा यथेह क्षीणे वित्ते त्यजते मानवैर्हि |**  
+**तथा तत्र क्षीण पुण्यं मनुष्यं त्यजन्ति सद्यः सेश्वरा देव सङ्घा: || [^3] – Adi Parva 90.2.**  
 
 ‘Just as the friends, the kith and kin leave a person once his money is drained out, so also, the Gods disown a person once his merits get exhausted’.
 
@@ -47,9 +47,9 @@ Yayāti continued, ‘the persons who tell great about their own meritorious dee
 ### How can one attain Heaven?
 Yayāti began telling,
 
-**तपश्च दानं च समो दमश्च  ह्रीरार्जवं सर्वभूतानुकम्पाI**
-**स्वर्गस्य लोकस्य वदन्ति सन्तः द्वाराणि सप्तैव महान्ति पुंसाम्II**
-**नश्यन्ति मानेव तमोऽभिभूताः पुंसः सदैवेति वदन्ति संतःII [^4] – Adi Parva 90.22**
+**तपश्च दानं च समो दमश्च  ह्रीरार्जवं सर्वभूतानुकम्पा |**  
+**स्वर्गस्य लोकस्य वदन्ति सन्तः द्वाराणि सप्तैव महान्ति पुंसाम् ||**  
+**नश्यन्ति मानेव तमोऽभिभूताः पुंसः सदैवेति वदन्ति संतः || [^4] – Adi Parva 90.22**  
 
 (‘Penance (तपस्), charity (दानं), calmness of mind induced by renunciation of desires (शम), control of external senses (दम), modesty (ह्री:), truthfulness (आर्जवम्), and kindness to all creatures (दया) are the sevenfold steps that lead a person to heaven’)
 
@@ -102,12 +102,12 @@ Thus, doing good to society is the basic narrative around which the entire Hindu
 
 
 [^1]: This story is from Adi Parva of Maha Bharata written by sage Ved Vyasa.
-[^2]: nā’haṃ deva manuṣyeṣu gandharveṣu maharṣiṣu।
-ātmanastapatā tulyaṃ kañcitpaśyāmi vāsava! II- Adi Parva 88.2
-[^3]: jñātiḥ suhṛtsvajano vā yatheha kṣīṇe vitte tyajate mānavairhiI
-tathā tatra kṣīṇa puṇyaṃ manuṣyaṃ tyajanti sadyaḥ seśvarā deva saṅghā:II – Adi Parva 90.2.
-[^4]: tapaśca dānaṃ ca samo damaśca  hrīrārjavaṃ sarvabhūtānukampāI
-svargasya lokasya vadanti santaḥ dvārāṇi saptaiva mahānti puṃsāmII
-naśyanti māneva tamo’bhibhūtāḥ puṃsaḥ sadaiveti vadanti saṃtaḥII – Adi Parva 90.22
-[^5]: āsyeva tu yadāhāraṃ govanmṛgayate muni:I
-athāsya lokaḥ sarvosyaṃ sosmṛtatvāya kalpateII – Adi Parva, 91.18
+[^2]: nā’haṃ deva manuṣyeṣu gandharveṣu maharṣiṣu |  
+ātmanastapatā tulyaṃ kañcitpaśyāmi vāsava! || - Adi Parva 88.2
+[^3]: jñātiḥ suhṛtsvajano vā yatheha kṣīṇe vitte tyajate mānavairhi I  
+tathā tatra kṣīṇa puṇyaṃ manuṣyaṃ tyajanti sadyaḥ seśvarā deva saṅghā: || – Adi Parva 90.2.
+[^4]: tapaśca dānaṃ ca samo damaśca  hrīrārjavaṃ sarvabhūtānukampā |
+svargasya lokasya vadanti santaḥ dvārāṇi saptaiva mahānti puṃsām ||  
+naśyanti māneva tamo’bhibhūtāḥ puṃsaḥ sadaiveti vadanti saṃtaḥ || – Adi Parva 90.22
+[^5]: āsyeva tu yadāhāraṃ govanmṛgayate muni: |  
+athāsya lokaḥ sarvosyaṃ sosmṛtatvāya kalpate || – Adi Parva, 91.18

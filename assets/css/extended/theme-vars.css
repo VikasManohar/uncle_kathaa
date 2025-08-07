@@ -1,3 +1,19 @@
 /* :root {
     --main-width: 1200px;
 } */
+
+
+.post-content p {
+    text-align: justify;
+}
+
+/* Page views styling */
+.page-views {
+    color: var(--secondary);
+    font-size: 0.9em;
+}
+
+.page-views:before {
+    content: "👁️ ";
+    margin-right: 2px;
+}

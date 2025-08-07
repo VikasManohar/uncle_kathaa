@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/mahabharatha/</loc>
+    <loc>http://localhost:1313/tags/mahabharatha/</loc>
     <lastmod>2025-07-19T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-07-19T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story22/</loc>
+    <loc>http://localhost:1313/posts/story22/</loc>
     <lastmod>2025-07-19T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-19T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-19T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story21/</loc>
+    <loc>http://localhost:1313/posts/story21/</loc>
     <lastmod>2025-07-04T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2025-05-16T11:00:12+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-05-14T01:22:08+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2025-05-13T00:45:33+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story20/</loc>
+    <loc>http://localhost:1313/posts/story20/</loc>
     <lastmod>2025-05-03T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story19/</loc>
+    <loc>http://localhost:1313/posts/story19/</loc>
     <lastmod>2025-04-12T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story18/</loc>
+    <loc>http://localhost:1313/posts/story18/</loc>
     <lastmod>2025-03-18T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story17/</loc>
+    <loc>http://localhost:1313/posts/story17/</loc>
     <lastmod>2024-10-20T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story16/</loc>
+    <loc>http://localhost:1313/posts/story16/</loc>
     <lastmod>2024-09-27T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story15/</loc>
+    <loc>http://localhost:1313/posts/story15/</loc>
     <lastmod>2024-08-17T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story14/</loc>
+    <loc>http://localhost:1313/posts/story14/</loc>
     <lastmod>2024-08-03T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story13/</loc>
+    <loc>http://localhost:1313/posts/story13/</loc>
     <lastmod>2024-07-21T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story12/</loc>
+    <loc>http://localhost:1313/posts/story12/</loc>
     <lastmod>2024-07-12T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story11/</loc>
+    <loc>http://localhost:1313/posts/story11/</loc>
     <lastmod>2024-06-29T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story10/</loc>
+    <loc>http://localhost:1313/posts/story10/</loc>
     <lastmod>2024-06-22T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story9/</loc>
+    <loc>http://localhost:1313/posts/story9/</loc>
     <lastmod>2024-06-15T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story8/</loc>
+    <loc>http://localhost:1313/posts/story8/</loc>
     <lastmod>2024-06-10T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story7/</loc>
+    <loc>http://localhost:1313/posts/story7/</loc>
     <lastmod>2024-05-24T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story6/</loc>
+    <loc>http://localhost:1313/posts/story6/</loc>
     <lastmod>2024-05-19T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story5/</loc>
+    <loc>http://localhost:1313/posts/story5/</loc>
     <lastmod>2024-05-11T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story4/</loc>
+    <loc>http://localhost:1313/posts/story4/</loc>
     <lastmod>2024-05-03T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story3/</loc>
+    <loc>http://localhost:1313/posts/story3/</loc>
     <lastmod>2024-04-26T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story2/</loc>
+    <loc>http://localhost:1313/posts/story2/</loc>
     <lastmod>2024-04-18T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/story1/</loc>
+    <loc>http://localhost:1313/posts/story1/</loc>
     <lastmod>2024-04-08T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/chronicles-of-splendor-a-journey-through-indian-history/</loc>
+    <loc>http://localhost:1313/posts/chronicles-of-splendor-a-journey-through-indian-history/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/indian-ethos--management/</loc>
+    <loc>http://localhost:1313/tags/indian-ethos--management/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/indian-history/</loc>
+    <loc>http://localhost:1313/tags/indian-history/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/panchatantra/</loc>
+    <loc>http://localhost:1313/tags/panchatantra/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/panchatantra-tales-wisdom-woven-in-animal-fables/</loc>
+    <loc>http://localhost:1313/posts/panchatantra-tales-wisdom-woven-in-animal-fables/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/symbiosis-of-tradition-and-strategy-unveiling-indian-ethos-in-management/</loc>
+    <loc>http://localhost:1313/posts/symbiosis-of-tradition-and-strategy-unveiling-indian-ethos-in-management/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/unveiling-the-tapestry-of-time-stories-of-mahabharata/</loc>
+    <loc>http://localhost:1313/posts/unveiling-the-tapestry-of-time-stories-of-mahabharata/</loc>
     <lastmod>2023-11-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/artha-sastra-of-kautilya/</loc>
+    <loc>http://localhost:1313/tags/artha-sastra-of-kautilya/</loc>
     <lastmod>2023-09-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</loc>
+    <loc>http://localhost:1313/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</loc>
     <lastmod>2023-09-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/polity/</loc>
+    <loc>http://localhost:1313/tags/polity/</loc>
     <lastmod>2023-09-30T23:50:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

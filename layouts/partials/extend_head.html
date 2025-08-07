@@ -1,0 +1,58 @@
+{{- /* Head custom content area start */ -}}
+{{- /* Insert any custom code (web-analytics, resources, etc.) - it will appear in the
+
+<head></head> section of every page. */ -}}
+{{- /* Can be overwritten by partial with the same name in the global layouts. */ -}}
+
+{{- /* GoatCounter Analytics */ -}}
+{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+<script>
+    window.goatcounter = {
+        endpoint: 'https://unlcekathaa.goatcounter.com/count'
+    };
+</script>
+<script async data-goatcounter src="/js/count.js"></script>
+
+<noscript>
+    <img src="https://unlcekathaa.goatcounter.com/count?p={{ .RelPermalink }}" alt="." />
+</noscript>
+
+{{- /* GoatCounter API for fetching page views */ -}}
+<script>
+    // Function to fetch and display page views
+    async function fetchPageViews(path) {
+        try {
+            const response = await fetch(`https://unlcekathaa.goatcounter.com/counter/${encodeURIComponent(path)}.json`);
+            if (response.ok) {
+                const data = await response.json();
+                return data.count || 0;
+            }
+        } catch (error) {
+            console.log('Could not fetch page views:', error);
+        }
+        return 0;
+    }
+
+    // Display page views when DOM is loaded
+    document.addEventListener('DOMContentLoaded', function () {
+        // Get all page view elements
+        const viewCountElements = document.querySelectorAll('.page-views');
+
+        viewCountElements.forEach(async (element) => {
+            // Get the path from data attribute, or use current page path as fallback
+            const path = element.getAttribute('data-path') || window.location.pathname;
+
+            try {
+                const count = await fetchPageViews(path);
+                element.textContent = count + ' views';
+                element.style.display = 'inline';
+            } catch (error) {
+                element.textContent = '0 views';
+                element.style.display = 'inline';
+            }
+        });
+    });
+</script>
+{{- end -}}
+
+{{- /* Head custom content area end */ -}}

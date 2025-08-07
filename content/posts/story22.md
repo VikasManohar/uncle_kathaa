@@ -43,11 +43,9 @@ Bound by dharma and fatherly love, Santanu could not break his word to Devavrata
 
 How can a father tell his love towards a lady to his own?  After great persuasion, he said: ‘You are my only son and you are certainly equal to hundred sons in valour and wisdom. Yet, if any peril occurs to you, our family lineage gets broken.
 
-अनपत्यतैकपुत्रत्वं इत्याहुर्धर्मवादिनः I
-
-चक्षुरेकं च पुत्रश्च अस्ति नास्ति च भारत II
-
-चक्षुर्नाशे तनॊर्नाश: पुत्रनाशे कुलक्षयः II [^2] – Adi Parvam 100.67
+अनपत्यतैकपुत्रत्वं इत्याहुर्धर्मवादिनः |  
+चक्षुरेकं च पुत्रश्च अस्ति नास्ति च भारत ||  
+चक्षुर्नाशे तनॊर्नाश: पुत्रनाशे कुलक्षयः || [^2] – Adi Parvam 100.67  
 
 (Having one son is as good of no sons- say the dharmic people. One son or one eye – are as as good as no son or no eye. The body withers away if the one eye withers out; and if the one son is lost, the lineage gets stuck.)
 
@@ -62,10 +60,10 @@ The fisherman, though honoured, was reluctant. “You are noble,” he said, “
 
 Understanding the depth of the concern, Devavrata made an earth-shaking decision. He vowed before all present:
 
-**“I will renounce my right to the throne. I shall never marry. I will remain a Brahmachari (celibate) for life, so that no progeny of mine will ever challenge Satyavati’s children.”**
-**परित्यजाम्यहं राज्यं मैथुनञ्चापि सर्वशः I**
-**ऊर्ध्वरेता भविष्यामि दाश सत्यं ब्रवीमि ते II [^3] – Adi parvam 100.97**
-**(I hereby forsake the kingdom and also any sexual activity. Oh Dasaraj! I remain URDHVA RETASK – keep the retas or semen upwards. I am telling this truth and abide by it’)**
+**“I will renounce my right to the throne. I shall never marry. I will remain a Brahmachari (celibate) for life, so that no progeny of mine will ever challenge Satyavati’s children.”**  
+**परित्यजाम्यहं राज्यं मैथुनञ्चापि सर्वशः |**    
+**ऊर्ध्वरेता भविष्यामि दाश सत्यं ब्रवीमि ते || [^3] – Adi parvam 100.97**  
+**(I hereby forsake the kingdom and also any sexual activity. Oh Dasaraj! I remain URDHVA RETASK – keep the retas or semen upwards. I am telling this truth and abide by it’)**  
 
 The heavens trembled. The Gods showered flowers upon him. The sages declared:
 **“Bhishma! Bhishma!”** - meaning “the one who took the terrible vow.” This was the moment he became Bhishma.
@@ -115,9 +113,9 @@ From then on, Bhishma became the pillar of the Kuru dynasty. Though he renounced
 3. Why a son is considered important in ancient Indian spiritual thought?
 
 [^1]: This story is from Adiparvam of Mahabharata written by sage Veda Vyasa.
-[^2]:anapatyataikaputratvaṃ ityāhurdharmavādinaḥ I
-cakṣurekaṃ ca putraśca asti nāsti ca bhārata II
-cakṣurnāśe tanrnāśa: putranāśe kulakṣayaḥ II – Adi Parvam 100.67
-[^3]:parityajāmyahaṃ rājyaṃ maithunañcāpi sarvaśaḥ I
-ūrdhvaretā bhaviṣyāmi dāśa satyaṃ bravīmi te II – Adi parvam 100.97
-[^4]: “na karmaṇā na prajayā dhanena tyāgenaike amṛtatvamānaśuḥ”
+[^2]:anapatyataikaputratvaṃ ityāhurdharmavādinaḥ |  
+cakṣurekaṃ ca putraśca asti nāsti ca bhārata ||  
+cakṣurnāśe tanrnāśa: putranāśe kulakṣayaḥ || – Adi Parvam 100.67
+[^3]:parityajāmyahaṃ rājyaṃ maithunañcāpi sarvaśaḥ |  
+ūrdhvaretā bhaviṣyāmi dāśa satyaṃ bravīmi te || – Adi parvam 100.97  
+[^4]: “na karmaṇā na prajayā dhanena tyāgenaike amṛtatvamānaśuḥ” 

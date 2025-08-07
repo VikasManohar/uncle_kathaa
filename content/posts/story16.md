@@ -54,10 +54,10 @@ Sukrācārya introspected the cause for teaching Mrutha sanjīvanī vidya to the
 
 He rose up in anger and set a code of law to Brahmins -
 
-**योब्राह्मणोsद्यप्रभृतीह कश्चित्**
-**मोहात् सुरां पास्यति मंदबुद्धि: I**
-**अपेतधर्मा ब्रह्महा चैव स स्याद्**
-**अस्मिंल्लोके गर्हितः स्यात् परेच II [^1] Adi Parva 76.67
+**योब्राह्मणोsद्यप्रभृतीह कश्चित्**  
+**मोहात् सुरां पास्यति मंदबुद्धि: I**  
+**अपेतधर्मा ब्रह्महा चैव स स्याद्**  
+**अस्मिंल्लोके गर्हितः स्यात् परेच II** [^1] Adi Parva 76.67
 
 (From now on, if any Brahmin consumes alcohol out of foolishness and delusion, he is astray from dharma, and he gets the sin of Brahmahatya. He shall be blamed in this world and other worlds also)
 

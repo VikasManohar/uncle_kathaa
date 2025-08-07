@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Uncle Kathaa</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Uncle Kathaa</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jul 2025 23:50:15 +0530</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Story 22 - Bhishma - and his Noble Vow (Pratigna)</title>
-      <link>https://example.org/posts/story22/</link>
+      <link>http://localhost:1313/posts/story22/</link>
       <pubDate>Sat, 19 Jul 2025 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story22/</guid>
+      <guid>http://localhost:1313/posts/story22/</guid>
       <description>&lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the Story&lt;/h3&gt;
 &lt;p&gt;Bhishma, one of the most revered and powerful characters of the Mahabharata, was not born an ordinary human. His birth was divine and rooted in a celestial curse. Once, the eight Vasus-celestial beings - were cursed by Sage Vashishta for stealing his divine cow. As a result, they were fated to be born on earth. To escape prolonged earthly life, they sought Ganga Devi’s help. &lt;strong&gt;She agreed to be their mother and liberate them from their curse soon after birth.&lt;/strong&gt; Meanwhile, Mahābhiṣha, a noble king of Ikshvaku dynasty, was born to Pratip Chakravarti of Kuru clan. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 21 - The Birth of Gāngeya (Bhishma)</title>
-      <link>https://example.org/posts/story21/</link>
+      <link>http://localhost:1313/posts/story21/</link>
       <pubDate>Fri, 04 Jul 2025 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story21/</guid>
+      <guid>http://localhost:1313/posts/story21/</guid>
       <description>&lt;p&gt;Janamejaya was curious to know the story of the Kuru clan of kings, especially his immediate predecessors from Vysampayana. Daksha Prajāpati was the mānasa putra of Lord Brahma (son born out of Brahma’s vision). His son was Aditi and his son was Vivasvata (Lord Surya). Manu was the son of Surya. Manu’s son was Ila and his son was Purūrava. Nahusha was the grandson of Purūrava, and Nahusha’s son was Yayāthi. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 20 - The Great Fall of Yayāti - Heaven (Swarga) vis-à-vis Moksha (Liberation)</title>
-      <link>https://example.org/posts/story20/</link>
+      <link>http://localhost:1313/posts/story20/</link>
       <pubDate>Sat, 03 May 2025 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story20/</guid>
+      <guid>http://localhost:1313/posts/story20/</guid>
       <description>&lt;p&gt;The story of Yayāti is very interesting in Mahabharata. It answers many questions- what are heaven and hell and how is heaven (Swarga) different from Liberation (Moksha); and why do the texts of Hinduism talk about Swargam when it is impermanent?  Let us read and understand the story&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the Story&lt;/h3&gt;
 &lt;p&gt;Yayāti was the son of emperor Nahusha, a famous mythological character of ancient India.  We know from the previous episodes that Yayāti swapped his untimely old age with his youngest son Pururava and ruled the country for thousands of years. While he was a king, he performed innumerable Yagnas and amassed enormous amounts of merit (punya) that he was destined by Providence to spend thousands of years in heaven.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 19 - Yayāti defying the orders of Sukracharya - Marriage with Sarmishta</title>
-      <link>https://example.org/posts/story19/</link>
+      <link>http://localhost:1313/posts/story19/</link>
       <pubDate>Sat, 12 Apr 2025 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story19/</guid>
+      <guid>http://localhost:1313/posts/story19/</guid>
       <description>&lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the Story&lt;/h3&gt;
 &lt;p&gt;The Kshatriya king Yayāti married Devayani, a Brahmin on the orders of Sukracharya and Sukracharya exonerated the sin of Varna Sankara attaching to the king. Sukracharya cautioned Yayāti that he should not marry Sarmishta, the daughter of king Vrushaparva who accompanied Devayani as her Dasi (servant). &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;the-story&#34;&gt;The Story&lt;/h3&gt;
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>Story 18 - Story of Yayāti (a Khatriya) and his wife, Devayani (a Bramhin)</title>
-      <link>https://example.org/posts/story18/</link>
+      <link>http://localhost:1313/posts/story18/</link>
       <pubDate>Tue, 18 Mar 2025 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story18/</guid>
+      <guid>http://localhost:1313/posts/story18/</guid>
       <description>&lt;h3 id=&#34;discussions-in-the-story&#34;&gt;Discussions in the Story&lt;/h3&gt;
 &lt;p&gt;The Story revolves around three important issues - the anger and its management, the true essence of Pāṇigrahaṇa, and finally वर्ण सांकर्यं (Varṇa sāṃkaryaṃ) and its nuances as per Sastras. Apart from this the story talks of the clash of two ego-centric characters. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;the-story&#34;&gt;The Story&lt;/h3&gt;
@@ -54,9 +54,9 @@
     </item>
     <item>
       <title>Story 17 - A Discussion on Slavery in Ancient India - The Story of Devayani &amp; Sarmishta</title>
-      <link>https://example.org/posts/story17/</link>
+      <link>http://localhost:1313/posts/story17/</link>
       <pubDate>Sun, 20 Oct 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story17/</guid>
+      <guid>http://localhost:1313/posts/story17/</guid>
       <description>&lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the story&lt;/h3&gt;
 &lt;p&gt;Vysampayana was narrating the story of Kacha &amp;amp; Devayani in the court of the king Janamejaya. Incidentally he said that no rishi would marry Devayani. Janamejaya wanted to listen the later part of Devayani story. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;devayani--sarmishta---a-rivalry&#34;&gt;Devayani &amp;amp; Sarmishta - A rivalry&lt;/h3&gt;
@@ -64,17 +64,17 @@
     </item>
     <item>
       <title>Story - 16 Mrutha Sanjīvanī – A quest for victory over Death</title>
-      <link>https://example.org/posts/story16/</link>
+      <link>http://localhost:1313/posts/story16/</link>
       <pubDate>Fri, 27 Sep 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story16/</guid>
+      <guid>http://localhost:1313/posts/story16/</guid>
       <description>&lt;p&gt;King Janamejaya heard the story of Samrat Bharata from Vysampayana and he was delighted to know the origin of Bharata Khanda. Now he was inquisitive to know the story of Kuru Vamsa from Vysampayana, and he started narrating the story.&lt;/p&gt;
 &lt;p&gt;Daksha prajāpati (hereinafter wards mentioned as Daksha) was the mānasa putra (born out of the manas) of Brahmaa. He was the progenitor of the entire world, and to procreate the species, he married several wives. It is said that all the twenty-seven stars (nakshatras) who later married the Moon God, Chandra were his daughters. Parvati, the wife of Lord Siva was his daughter. His two daughters Adithi and Dithi were married to Kasyapa. Through Adithi and Dithi he got all the Gods and Asuras as his sons. Through Vinata and Kadru he got Garutmantha and all the serpents respectively.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 15 - Story of Sakunthala and Dushyantha</title>
-      <link>https://example.org/posts/story15/</link>
+      <link>http://localhost:1313/posts/story15/</link>
       <pubDate>Sat, 17 Aug 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story15/</guid>
+      <guid>http://localhost:1313/posts/story15/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt;The story of Sakuntala and king Dushyantha is a very popular story of Maha Bharata. The intellectual genius of women in ancient India, the brilliance of argumentative power, the superb negotiating skills are at once displayed for readers to understand many sociological and psychological issues of Indian society. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the Story&lt;/h3&gt;
@@ -82,9 +82,9 @@
     </item>
     <item>
       <title>Story 14 - Kurukshetra - a war between Devas &amp; Asuras (Aṃśāvatāra Parvam)</title>
-      <link>https://example.org/posts/story14/</link>
+      <link>http://localhost:1313/posts/story14/</link>
       <pubDate>Sat, 03 Aug 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story14/</guid>
+      <guid>http://localhost:1313/posts/story14/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt; Eighteen Akshouhinis of warriors were destroyed in the Kurukshetra war fought between Pandavas and Kauravas. Such a destruction was planned much in advance in the court of Brahmaa to rid the Earth free from Adharmic forces. The story relies on the passages from Mahabharata and some Puranas to unravel the plan and the eventual birth of Gods and Asuras upon the earth. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the Story&lt;/h3&gt;
@@ -92,26 +92,26 @@
     </item>
     <item>
       <title>Story 13 - Birth of Vedavyasa</title>
-      <link>https://example.org/posts/story13/</link>
+      <link>http://localhost:1313/posts/story13/</link>
       <pubDate>Sun, 21 Jul 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story13/</guid>
+      <guid>http://localhost:1313/posts/story13/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt;The story heralds the birth of Vedavyasa who has written this great episode ‘Mahabharata’. Mahabharata is also known as Panchama Veda (the fifth Veda) since it discusses the nuances of Vedic dictums in easy and logical way for the sake of common populace. The stories of Mahabharata are illustrations to the great Vedic thoughts.&lt;/p&gt;
 &lt;p&gt;The story discusses Yashti Pravesam &lt;strong&gt;tradition&lt;/strong&gt; &lt;strong&gt;which has been followed for many years in India&lt;/strong&gt; by the kings at the time of coronation. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 12 - Sarpayāgaṃ (The great destruction of Serpents in Janamejaya’s Sarpa Yāgaṃ)</title>
-      <link>https://example.org/posts/story12/</link>
+      <link>http://localhost:1313/posts/story12/</link>
       <pubDate>Fri, 12 Jul 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story12/</guid>
+      <guid>http://localhost:1313/posts/story12/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt;The story discusses the process of Sarpayāgaṃ and the intervention of rishi Aāstīka to stop the destruction of the entire race of serpents. The story discusses Aāstīka &lt;strong&gt;tradition&lt;/strong&gt; &lt;strong&gt;which has been followed for the last five thousand years in India&lt;/strong&gt; &amp;amp; Aāstīka Stotram to obviate the fear from serpents. It also discusses the important purohits – &lt;strong&gt;Hotha, Udgāta, Adhvaryu and Brahma for conducting any yāgaṃ&lt;/strong&gt;, and the tradition of which is being followed even now. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 11 - Garutmantha, the Devotee of Lord Vishnu</title>
-      <link>https://example.org/posts/story11/</link>
+      <link>http://localhost:1313/posts/story11/</link>
       <pubDate>Sat, 29 Jun 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story11/</guid>
+      <guid>http://localhost:1313/posts/story11/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt;Garutmantha or Garuda is the trusted devotee and the vehicle of Lord Vishnu. The story discusses the birth of Garutmantha and his expeditions. ‘&lt;strong&gt;Madhu Vidya&lt;/strong&gt;’ (the art of inhaling Sun’s rays as substitute for food, &lt;strong&gt;spiritual quotient of darbha grass&lt;/strong&gt;, and &lt;strong&gt;incubation of children in ghee pots&lt;/strong&gt; etc are certain highlights of this story. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the Story&lt;/h3&gt;
@@ -119,34 +119,34 @@
     </item>
     <item>
       <title>Story 10 - Churning of Ocean (Samudra Manthan) – Emergence of the Amrit</title>
-      <link>https://example.org/posts/story10/</link>
+      <link>http://localhost:1313/posts/story10/</link>
       <pubDate>Sat, 22 Jun 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story10/</guid>
+      <guid>http://localhost:1313/posts/story10/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt;Deva-Asura sangrama or the war between the gods and demons is a very popular story that we come across in many Puranas and Itihasas. The story is the subject matter of many folk songs, ballads and of late, films. The churning of the ocean and resultant war appeals to all types of readers from children to highly learned intellectuals. The symbolism behind the story is for the consumption of intellectuals and the story, per se, is for children. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 9 - Vinata &amp; Kadruva (the two wives of Kasyapa Prajapati)- A rivalry</title>
-      <link>https://example.org/posts/story9/</link>
+      <link>http://localhost:1313/posts/story9/</link>
       <pubDate>Sat, 15 Jun 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story9/</guid>
+      <guid>http://localhost:1313/posts/story9/</guid>
       <description>&lt;h3 id=&#34;what-is-the-story-about&#34;&gt;What is the story about?&lt;/h3&gt;
 &lt;p&gt;The effects of anger and jealousy are the subject matter of this story. Anger results in delusion and fails the intellect of any person. The story discusses dāsī system (slavery) prevalent in ancient societies and tries to compare this system that was prevalent in Bharath vis-à-vis the West. The prevalence of the practice of preserving eggs in ghee pots for incubation is an ingenuous scientific technique unique to Indian society; and this aspect is also covered in the current story. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 8 - Jaratkaru (a rishi) marrying Jaratkaru (a serpent lady)</title>
-      <link>https://example.org/posts/story8/</link>
+      <link>http://localhost:1313/posts/story8/</link>
       <pubDate>Mon, 10 Jun 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story8/</guid>
+      <guid>http://localhost:1313/posts/story8/</guid>
       <description>&lt;p&gt;(This is an interesting episode in Maha Bharata discussing tenets of ‘pātivratya - code of conduct for women; and the nature of democratic debates for solving common problems. The necessity of perpetuating a family lineage and the importance of following dharma in the face of adversities etc are also the themes that run through the story)&lt;/p&gt;
 &lt;h3 id=&#34;the-background-of-the-story&#34;&gt;The Background of the Story&lt;/h3&gt;
 &lt;p&gt;On hearing the death of his father in the hands of Takshaka, a serpent king, Janamejaya had taken a decision to punish the whole race of serpents.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 7 - Parīkṣit being cursed by Srungi</title>
-      <link>https://example.org/posts/story7/</link>
+      <link>http://localhost:1313/posts/story7/</link>
       <pubDate>Fri, 24 May 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story7/</guid>
+      <guid>http://localhost:1313/posts/story7/</guid>
       <description>&lt;h3 id=&#34;about-the-story&#34;&gt;About the Story &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
 &lt;p&gt;Anger Management is the basic requisite for a human to become humane. Anger leads to delusion and destroys discriminating intellect. The story of Parīkṣit epitomizes the importance of anger management in day today life.&lt;/p&gt;
 &lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the story&lt;/h3&gt;
@@ -154,9 +154,9 @@
     </item>
     <item>
       <title>Story 6 - Characteristics of Satva and Rajas - Uttanka vis-à-vis King Paushya</title>
-      <link>https://example.org/posts/story6/</link>
+      <link>http://localhost:1313/posts/story6/</link>
       <pubDate>Sun, 19 May 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story6/</guid>
+      <guid>http://localhost:1313/posts/story6/</guid>
       <description>&lt;h4 id=&#34;about-the-story&#34;&gt;About the Story&lt;/h4&gt;
 &lt;p&gt;This is a famous story from Mahabharatha (Adi Parva), the verses of which are quoted very often by scholastic community to distinguish a satvic and rajasic personalities. Anger management is the hallmark of satva personality. This story also talks of the importance of devotion that is given in certain nitya/ naimittika karmas by our scriptures.&lt;/p&gt;
 &lt;h3 id=&#34;background-of-the-story&#34;&gt;Background of the story&lt;/h3&gt;
@@ -164,49 +164,49 @@
     </item>
     <item>
       <title>Story 5 - Pramadvara weds Ruru (the first love story of Mahabharata)</title>
-      <link>https://example.org/posts/story5/</link>
+      <link>http://localhost:1313/posts/story5/</link>
       <pubDate>Sat, 11 May 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story5/</guid>
+      <guid>http://localhost:1313/posts/story5/</guid>
       <description>&lt;p&gt;The story is taken from Chapter 8 to 11 of Adi Parva of Mahabharatha written by sage Veda Vyasa.&lt;/p&gt;
 &lt;h3 id=&#34;background-to-the-present-story&#34;&gt;Background to the present story&lt;/h3&gt;
 &lt;p&gt;Ugrasravasa was narrating the story of Bhrigu Vamsa to Saunaka and his ten thousand disciples. In that we have read the story of Maharshi Chyavana’s birth. Chyavana’s son was Pramathi who was married to an apsarasa by name Ghṛtāci. They had a son by name Ruru.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 4 - Story of Puloma and the Birth of Maharshi Chyavana - the great ethical dilemma</title>
-      <link>https://example.org/posts/story4/</link>
+      <link>http://localhost:1313/posts/story4/</link>
       <pubDate>Fri, 03 May 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story4/</guid>
+      <guid>http://localhost:1313/posts/story4/</guid>
       <description>&lt;p&gt;Mahabharata, as we know, was recited first by Vaiśaṃpāyana in the court of Janamejaya. Ugrasravasa, son of a sūta was present in the court and he had understood the entire story. He wanted to narrate the story in greater detail to greater congregations, and so, he reached the illustrious Naimisaranya where he found more than ten thousand rishis who were the disciples of Saunaka.&lt;/p&gt;
 &lt;p&gt;Ugrasravasa was very pious and humble, and he expressed his intentions to the rishis. &lt;strong&gt;The rishis were eager to listen to Mahabharata, but Saunaka wanted to hear the story of Bhrigu vamsa from Ugrasravasa before listening to Mahabharat.&lt;/strong&gt; Ugrasravasa obliged to the request of Vaiśaṃpāyana, and he started narrating the story.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 3 - The story of three śiṣyās - Upamanyu, Aruni &amp; Veda</title>
-      <link>https://example.org/posts/story3/</link>
+      <link>http://localhost:1313/posts/story3/</link>
       <pubDate>Fri, 26 Apr 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story3/</guid>
+      <guid>http://localhost:1313/posts/story3/</guid>
       <description>&lt;p&gt;The Gurukul education was a prominent system in ancient Bharat (India) and it was there till the nineteenth century when the Macaulay Minute was formulated in 1835. The story under consideration revolves around Gurukul education &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; prevalent in Mahabharat times.&lt;/p&gt;
 &lt;p&gt;Once upon a time there lived a rishi, Ayodha Dhaumya in an āśrama surrounded by a thick forest. Upamanyu, Aruni &amp;amp; Veda were his three disciples. It was Gurukul system of learning, and all the students were learning language, grammar, mathematics, Vedic texts, Itihasas and a whole lot of yoga, pranayama, and meditation techniques under the benevolent patronage of the teacher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 2 - The story of a Dog, Sarama</title>
-      <link>https://example.org/posts/story2/</link>
+      <link>http://localhost:1313/posts/story2/</link>
       <pubDate>Thu, 18 Apr 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story2/</guid>
+      <guid>http://localhost:1313/posts/story2/</guid>
       <description>&lt;h4 id=&#34;vedavyasa-mahabharatam--the-story-the-ethics-morals--the-traditions&#34;&gt;&lt;em&gt;(Vedavyasa Mahabharatam – the story, the ethics, morals &amp;amp; the traditions)&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;Very interestingly, the first and the last story of Mahabharata is that of a dog. The king of Hastinapura, Janamejaya (Arjuna’s son is Parikshit and his son is Janamejaya) was performing a &lt;strong&gt;satra yāgaṃ&lt;/strong&gt; assisted by his three brothers- Sruthasena, Ugrasena and Bhimasena. Satra yāgaṃ was supposed to &lt;strong&gt;benefit the humanity&lt;/strong&gt; at large and the king was interested in it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story 1 - The Origin and Emergence of Mahabharatha</title>
-      <link>https://example.org/posts/story1/</link>
+      <link>http://localhost:1313/posts/story1/</link>
       <pubDate>Mon, 08 Apr 2024 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/story1/</guid>
+      <guid>http://localhost:1313/posts/story1/</guid>
       <description>&lt;p&gt;Saunaka Maharshi was a kulapati (currently, the word is loosely translated as the Chancellor of a University) and he was having more than ten thousand students in his āśramaṃ at Naimiśāraṇya. Once upon a time, Saunaka Maharshi was performing Satrayāga in the vicinity of his āśramaṃ with the help of all his disciples. Satrayāga was of twelve years long duration and all the rishis were committed to perform it with all sincerity and zeal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chronicles of Splendor: A Journey Through Indian History</title>
-      <link>https://example.org/posts/chronicles-of-splendor-a-journey-through-indian-history/</link>
+      <link>http://localhost:1313/posts/chronicles-of-splendor-a-journey-through-indian-history/</link>
       <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/chronicles-of-splendor-a-journey-through-indian-history/</guid>
+      <guid>http://localhost:1313/posts/chronicles-of-splendor-a-journey-through-indian-history/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Greetings, history enthusiasts, and welcome to a celebration of knowledge as we mark the first anniversary of our blog! Join us on a captivating voyage through the annals of time as we explore the multifaceted and awe-inspiring tapestry of Indian history — a chronicle that spans millennia, brimming with tales of empires, civilizations, and the vibrant cultural mosaic that defines the Indian subcontinent.&lt;/p&gt;
 &lt;h3 id=&#34;ancient-wonders&#34;&gt;Ancient Wonders&lt;/h3&gt;
@@ -215,9 +215,9 @@ The Golden Age of Gupta Dynasty Step into the Golden Age of the Gupta Dynasty, a
     </item>
     <item>
       <title>Panchatantra Tales: Wisdom Woven in Animal Fables</title>
-      <link>https://example.org/posts/panchatantra-tales-wisdom-woven-in-animal-fables/</link>
+      <link>http://localhost:1313/posts/panchatantra-tales-wisdom-woven-in-animal-fables/</link>
       <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/panchatantra-tales-wisdom-woven-in-animal-fables/</guid>
+      <guid>http://localhost:1313/posts/panchatantra-tales-wisdom-woven-in-animal-fables/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Welcome, dear readers, to a world where animals talk, impart valuable lessons, and navigate the complexities of life through the enchanting tales of the Panchatantra. As we celebrate the first anniversary of our blog, let’s embark on a delightful journey into the heart of these timeless fables that continue to captivate minds across generations.&lt;/p&gt;
 &lt;h3 id=&#34;the-origins-of-panchatantra&#34;&gt;The Origins of Panchatantra&lt;/h3&gt;
@@ -225,9 +225,9 @@ The Golden Age of Gupta Dynasty Step into the Golden Age of the Gupta Dynasty, a
     </item>
     <item>
       <title>Symbiosis of Tradition and Strategy: Unveiling Indian Ethos in Management</title>
-      <link>https://example.org/posts/symbiosis-of-tradition-and-strategy-unveiling-indian-ethos-in-management/</link>
+      <link>http://localhost:1313/posts/symbiosis-of-tradition-and-strategy-unveiling-indian-ethos-in-management/</link>
       <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/symbiosis-of-tradition-and-strategy-unveiling-indian-ethos-in-management/</guid>
+      <guid>http://localhost:1313/posts/symbiosis-of-tradition-and-strategy-unveiling-indian-ethos-in-management/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Greetings, business leaders and enthusiasts, as we mark the first anniversary of our blog! Join us in a thoughtful exploration of the unique amalgamation of ancient wisdom and modern management practices — an exploration into the Indian Ethos &amp;amp; Management. In a world of dynamic business landscapes, India’s rich cultural heritage offers a reservoir of insights that can shape principled and effective leadership.&lt;/p&gt;
 &lt;h3 id=&#34;dharma-in-business&#34;&gt;Dharma in Business&lt;/h3&gt;
@@ -235,17 +235,17 @@ The Golden Age of Gupta Dynasty Step into the Golden Age of the Gupta Dynasty, a
     </item>
     <item>
       <title>Unveiling the Tapestry of Time: Stories of Mahabharata</title>
-      <link>https://example.org/posts/unveiling-the-tapestry-of-time-stories-of-mahabharata/</link>
+      <link>http://localhost:1313/posts/unveiling-the-tapestry-of-time-stories-of-mahabharata/</link>
       <pubDate>Thu, 30 Nov 2023 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/unveiling-the-tapestry-of-time-stories-of-mahabharata/</guid>
+      <guid>http://localhost:1313/posts/unveiling-the-tapestry-of-time-stories-of-mahabharata/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Welcome, dear readers, to a journey through the mystical corridors of ancient India, where gods, warriors, and mortals collided in an epic tale that has transcended generations — the Mahabharata. As we celebrate the first anniversary of our blog, we find ourselves drawn to the rich tapestry of stories woven within this timeless epic. Join us as we unravel the intricate threads of valor, sacrifice, and destiny that form the very fabric of the Mahabharata.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arthashastra: Unveiling the Ancient Indian Treatise on Statecraft</title>
-      <link>https://example.org/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</link>
+      <link>http://localhost:1313/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</link>
       <pubDate>Sat, 30 Sep 2023 23:50:15 +0530</pubDate>
-      <guid>https://example.org/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</guid>
+      <guid>http://localhost:1313/posts/arthashastra-unveiling-the-ancient-indian-treatise-on-statecraft/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Greetings, fellow seekers of knowledge! As we mark the first anniversary of our blog, let’s delve into the profound realms of ancient Indian wisdom with a focus on the Arthashastra, a seminal text attributed to the renowned scholar Chanakya, also known as Kautilya. Join us on this journey as we unravel the intricacies of statecraft, governance, and strategy embedded within the pages of this timeless treatise.&lt;/p&gt;
 &lt;p&gt;The Sage Behind the Scrolls: Begin by acquainting yourself with Chanakya, the brilliant strategist, philosopher, and mentor to Emperor Chandragupta Maurya. Explore the historical context in which the Arthashastra was composed, shedding light on the political landscape of ancient India.

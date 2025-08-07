@@ -112,27 +112,39 @@
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
-    <nav class="pagination">
-        {{- if $paginator.HasPrev }}
-        <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
-            «&nbsp;{{ i18n "prev_page" }}&nbsp;
-            {{- if (.Param "ShowPageNums") }}
-            {{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}
+    <nav class="pagination"
+        style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; width: 100%;">
+        <div style="justify-self: start;">
+            {{- if $paginator.HasPrev }}
+            <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
+                «&nbsp;{{ i18n "prev_page" }}
+            </a>
             {{- end }}
-        </a>
-        {{- end }}
-        {{- if $paginator.HasNext }}
-        <a class="next" href="{{ $paginator.Next.URL | absURL }}">
-            {{- i18n "next_page" }}&nbsp;
-            {{- if (.Param "ShowPageNums") }}
-            {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
-            {{- end }}&nbsp;»
-        </a>
-        {{- end }}
+        </div>
+
+        <div style="display: flex; gap: 8px; justify-self: center;">
+            {{- range $pager := $paginator.Pagers }}
+            {{- if eq $pager.PageNumber $paginator.PageNumber }}
+            <span class="current"
+                style="color: var(--theme); font-size: 13px; line-height: 36px; background: var(--secondary); border-radius: calc(36px / 2); padding: 0 16px; display: inline-block;">{{
+                $pager.PageNumber }}</span>
+            {{- else }}
+            <a href="{{ $pager.URL | absURL }}"
+                style="color: var(--theme); font-size: 13px; line-height: 36px; background: var(--primary); border-radius: calc(36px / 2); padding: 0 16px; text-decoration: none; display: inline-block;">{{
+                $pager.PageNumber }}</a>
+            {{- end }}
+            {{- end }}
+        </div>
+
+        <div style="justify-self: end;">
+            {{- if $paginator.HasNext }}
+            <a class="next" href="{{ $paginator.Next.URL | absURL }}">
+                {{ i18n "next_page" }}&nbsp;»
+            </a>
+            {{- end }}
+        </div>
     </nav>
 </footer>
-{{- end }}
-
-{{- end }}{{/* end profileMode */}}
+{{- end }}{{- end }}{{/* end profileMode */}}
 
 {{- end }}{{- /* end main */ -}}

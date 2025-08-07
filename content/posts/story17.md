@@ -28,8 +28,8 @@ It was almost becoming night and one king by name Yayāthi was roaming in the fo
 
 Sukrācārya hurriedly came to the spot to see the plight of his daughter. He heard everything. A true Brahmin (gunas or qualities define a Brahmin and not mere birth) cannot afford to get excited by the temporary difficulties. He tried to console his daughter,
 
-**आत्मदोषैर्नियच्छन्ति सर्वे दुःख सुखे जनाः I**
-**मन्ये दुश्चरितं त तेsस्ति यस्येयं निष्कृतिः कृता II (Adi Parva 78.30) [^2]**
+**आत्मदोषैर्नियच्छन्ति सर्वे दुःख सुखे जनाः |**  
+**मन्ये दुश्चरितं त तेsस्ति यस्येयं निष्कृतिः कृता || (Adi Parva 78.30) [^2]**  
 **(‘My Dear daughter! Listen. In this world every one of us gets happiness or unhappiness by virtue of our karma (deeds). One has to endure the happenings with equanimity and that is the only way to get rid of past mistakes’)**
 But Devayani was not relenting. ‘She has blamed that you stand before the king arms-fold. Is it true? If it is true, I will go to her and beg pardon from her’. Sukrācārya said, ‘It is not certainly true. By the blessings of Bramha I have lot of power and wealth and all Asuras seek my help for all matters. You need not take to your head what Sarmishta had told to you out of ignorance. Please come and let us go to the city’. Still Devayani did not agree.
 
@@ -44,8 +44,8 @@ Years rolled by and one day both Sarmishta and Devayani set out for forest. They
 
 But Yayāthi was hesitant to marry a Brahmin lady for the fear that he would attract the sin of varna sankara (the sin of the alliance of two different varnas).
 
-**एकदेहोद्भवा वर्णा:  चत्वारोsपि वरांगने I**
-**पृथग् धर्मा: पृथक् शौचा: तेषाम् तु ब्राह्मणो वरः II [^4] – Adi Parva 81.20**
+**एकदेहोद्भवा वर्णा:  चत्वारोsपि वरांगने |**  
+**पृथग् धर्मा: पृथक् शौचा: तेषाम् तु ब्राह्मणो वरः || [^4] – Adi Parva 81.20**
 
 (Oh, Devayani! These four varnas- Brahmins, Kshatriyas, Vysyas and Shudras emerged out of a same person. But each has its own dharmas and behaviours. Out of these four varnas, the Brahmin is superior.)
 
@@ -72,12 +72,14 @@ Yayāthi had two sons- Yadu and Thurvasu from Devayani; and three sons- Druhyu, 
 
 He famously said,
 
-**न जातु कामः कामानुपभोगेन शाम्यति ।**
-**हविषा कृष्णवर्त्मैव भूय एवाभिवर्धते ॥ (Adi Parva 85.12) [^7]**
-**(‘As long as you are enjoying sensual pleasures, they keep on increasing. Just as the flakes of fire flame up on consuming each firewood, the desires keep growing on enjoying them again and again’)**
-**यत् पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः**
-**एकस्यापि न पर्याप्तं तस्मात्तृष्णाम् परित्यजेत् (Adi Parva 85.13) [^8]**
-**(‘Whatever the wealth- gold, grains, and girls that are there in this world are not sufficient for a single person. They don’t satiate his desires. So, one should abandon or drop out the desires from the mind’)**
+**न जातु कामः कामानुपभोगेन शाम्यति ।**  
+**हविषा कृष्णवर्त्मैव भूय एवाभिवर्धते ॥ (Adi Parva 85.12) [^7]**  
+**(‘As long as you are enjoying sensual pleasures, they keep on increasing. Just as the flakes of fire flame up on consuming each firewood, the desires keep growing on enjoying them again and again’)**  
+
+**यत् पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः**  
+**एकस्यापि न पर्याप्तं तस्मात्तृष्णाम् परित्यजेत् (Adi Parva 85.13) [^8]**  
+**(‘Whatever the wealth- gold, grains, and girls that are there in this world are not sufficient for a single person. They don’t satiate his desires. So, one should abandon or drop out the desires from the mind’)**  
+
 **He gave the kingdom to Puru and went for forests for penance. Puru became the progenitor of Puru clan (later on the famous Kuru clan of Kauravas); Yadu for Yadavas (Sri Krishna was born in this clan); Thurvasa became the progenitor for Yavanas (Alexander is said to belong to this clan) and Anu was the progenitor of Mlechhas (said to be the current tribes of Assam).**
 
 ### Points to ponder
@@ -88,7 +90,7 @@ He famously said,
 	When we compare the slavery in Africa or in America or in Ancient Greece, we find that it was based on force and often at the tip of the gun point. The Europeans forcefully enclaved Africans and transported to America for menial works. Again, there was no evidence of any slave getting relief from slavery. Serious and inquisitive readers may see the book ‘The History of Torture throughout the Ages’ by George Ryley Scott, Luxor Press, London) for immediate references as to how the system of slavery was ruthless, violent and forceful in western societies.
 
 2. ‘नजातुकामः कामानुपभोगेन शाम्यति ।‘- It is a famous and oft-quoted statement from Mahabharata. Desires cannot be extinguished by fulfilling the desires. They keep growing just as the fire flares up by adding the fuel. One has to abandon the desires to achieve the perfection in life. In Gita Sri Krishna emphasises-
-	**प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |**
+	**प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |**  
 	**आत्मन्येवात्मना तुष्ट: स्थितप्रज्ञस्तदोच्यते || 2. 55||**
 	**(Sthitapragna is one who has abandoned all desires arising out of the mind, and who finds happiness from within).**
  
@@ -106,14 +108,14 @@ He famously said,
 
 
 [^1]: This story is taken from Adi Parva of Maha Bharata written by sage Vyasa.
-[^2]: ātmadoṣairniyacchanti sarve duḥkha sukhe janāḥ I
-manye duścaritaṃ ta tessti yasyeyaṃ niṣkṛtiḥ kṛtā II
+[^2]: ātmadoṣairniyacchanti sarve duḥkha sukhe janāḥ |  
+manye duścaritaṃ ta tessti yasyeyaṃ niṣkṛtiḥ kṛtā ||
 [^3]: saṃsṛṣṭaṃ brahmaṇā kṣatraṃ kṣatreṇa brahma saṃhitam
-[^4]: ekadehodbhavā varṇā:  catvārospi varāṃgane I
-pṛthag dharmā: pṛthak śaucā: teṣām tu brāhmaṇo varaḥ II
+[^4]: ekadehodbhavā varṇā:  catvārospi varāṃgane |  
+pṛthag dharmā: pṛthak śaucā: teṣām tu brāhmaṇo varaḥ ||
 [^5]: Attaining puberty after thousand years is unthinkable in our present age. In our texts it is mentioned that the life span is one lakh years in Satya Yug, ten thousand years in Treta Yug, thousand years in Dwapar Yug and hundred years in Kali Yug. The current story must have happened much before Dwapar Yug or in the early phases of Dwapar Yug.
 [^6]: भ्रूण हत्य (bhrūṇa hatya) - It was the belief that one attains highest amount of sin if one kills a Brahmin.
-[^7]:na jātu kāmaḥ kāmānupabhogena śāmyati ।
-haviṣā kṛṣṇavartmaiva bhūya evābhivardhate ॥
-[^8]: yat pṛthivyāṃ vrīhiyavaṃ hiraṇyaṃ paśavaḥ striyaḥ I
-ekasyāpi na paryāptaṃ tasmāttṛṣṇām parityajet II
+[^7]:na jātu kāmaḥ kāmānupabhogena śāmyati |    
+haviṣā kṛṣṇavartmaiva bhūya evābhivardhate ||
+[^8]: yat pṛthivyāṃ vrīhiyavaṃ hiraṇyaṃ paśavaḥ striyaḥ |  
+ekasyāpi na paryāptaṃ tasmāttṛṣṇām parityajet ||

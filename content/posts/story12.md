@@ -60,8 +60,8 @@ Janamejaya distributed enormous wealth to people and all other dignitaries who h
 
 Aāstīka was a happy person for he became instrumental in preventing the death of serpent race in the holocaust. All serpents including Vasuki and Takshaka surrounded him in joy and praised him. They said, ‘Oh Great Rishi Aāstīka! ‘We are very much pleased with you, and we want to give back any boon of your choice. Please ask any boon’. Aāstīka was a rishi, and he did not want anything quid pro quo, but when they insisted, he said, ‘Well! I will ask a boon from you. **Let there not be any fear to human beings who just remember the anecdote of Sarpayāgaṃ.** If a person is encountered with a serpent and the person pronounces the following verse, the serpent should leave way for him. If any serpent transgresses the promise, let its head blead hundred cuts’.
 
-**सर्पापसर्प भद्रं ते गच्छ सर्प महाविष I**
-**जनमेजयस्य यज्ञान्ते आस्तीक वचनं स्मर II** (Adi Parva 58.25) [^6]
+**सर्पापसर्प भद्रं ते गच्छ सर्प महाविष |**  
+**जनमेजयस्य यज्ञान्ते आस्तीक वचनं स्मर ||** (Adi Parva 58.25) [^6]
 
 (Oh, great serpent! Please go away from me. Remember the words of Aāstīka at the end of Janamejaya’s Sarpayāgaṃ)
 Vasuki was happy at this gesture of Aāstīka.
@@ -78,6 +78,6 @@ Vasuki was happy at this gesture of Aāstīka.
 [^3]: sūta caste – the children born to a Brahmin lady with a Kshatriya man was labelled under sūta caste in Mahabharat times.
 [^4]: Hotha is the Rigvedic priest; Udgāta is the main priest of Samaveda; Adhvaryu is an Yajurvedic priest; and Atharvavedic main priest is Brahma. All the four priests officiate all important yagnas and yagas.
 [^5]: For knowing the divine plan, the reader may look into the previous episode (Story no 8- Jaratkaru (a rishi) marrying Jaratkaru (a serpent lady)
-[^6]: sarpāpasarpa bhadraṃ te gaccha sarpa mahāviṣa I
-janamejayasya yajñānte āstīka vacanaṃ smara II (Adi Parva 58.25)
+[^6]: sarpāpasarpa bhadraṃ te gaccha sarpa mahāviṣa |  
+janamejayasya yajñānte āstīka vacanaṃ smara || (Adi Parva 58.25)
 [^7]: Satya Sai Bal Vikas [article]([https://sssbalvikas.in/courses/group-ii/nag-panchami-festival/lessons/janamejeyas-sarpa-satra/#:~:text=King%20Janamejeya%2C%20the%20son%20of,sacrificial%20fireplace%20was%20specially%20erected](https://sssbalvikas.in/courses/group-ii/nag-panchami-festival/lessons/janamejeyas-sarpa-satra/#:~:text=King%20Janamejeya%2C%20the%20son%20of,sacrificial%20fireplace%20was%20specially%20erected) ) on Janamejaya’s Sarpa Satra
