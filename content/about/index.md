@@ -35,3 +35,13 @@ For those who prefer visual and auditory experiences, Uncle Kathaa provides a co
 4. [“Analysis of Dharma from Mahabharat (Virata Parva)”](https://www.amazon.in/Analysis-Dharma-Mahabharata-Virata-Parvam/dp/9392661622) - Published by Story Mirror Publications, this insightful work is available on Amazon.
 
 5. [Sankhya bharateeyam](https://www.flipkart.com/sankhya-bharateeyam-sankalana-grandham/p/itmdd950fa092ee9) - co-authored with Kalle Sridhar.
+
+
+## Connect with Dr. Karanam Nagarajarao
+
+You can find Dr. Rao and Uncle Kathaa on various platforms:
+
+- [YouTube](https://www.youtube.com/@drkaranamnagarajarao4591)
+- [Facebook](https://www.facebook.com/karanam.nagarajarao)
+- [LinkedIn](https://in.linkedin.com/in/nagaraja-rao-5a984557)
+- [Email](mailto:karanam.rao@gmail.com)
