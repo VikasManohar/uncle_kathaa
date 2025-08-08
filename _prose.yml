@@ -6,7 +6,7 @@ prose:
     - README.md
     - hugo.yaml
   metadata:
-    "content/posts":
+    content/posts:
       - name: "title"
         field:
           label: "Post Title"
