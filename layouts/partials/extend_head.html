@@ -1,7 +1,10 @@
 {{- /* Head custom content area start */ -}}
 {{- /* Insert any custom code (web-analytics, resources, etc.) - it will appear in the
 
-<head></head> section of every page. */ -}}
+<head>
+    <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | absURL }}">
+</head> section of every page. */ -}}
 {{- /* Can be overwritten by partial with the same name in the global layouts. */ -}}
 
 {{- /* GoatCounter Analytics */ -}}
