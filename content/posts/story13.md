@@ -85,7 +85,7 @@ Thus, Vysampayana concluded the story of Veda Vyasa and proceeded to narrate the
 ### Points to Ponder
 
 1. Venu Yashti is a bamboo stick presented to Uparichara Vasu by Lord Indra. In this story we see that the king established it on high pedestal and performed puja. **The practice of performing Yashti puja is a great tradition in kingly families.** Great kings of Bharat used to perform Yashti puja before ascending to the thrones till kingship got into extinction after the advent of Independence.
-2. Virginity is one more important aspect of this story. How can the virginity remain sacred after the union with the partner? Gods and great rishis possess ashta siddis (eight divine powers) [^4] by means of which they can perform supernatural things.
+2. Virginity is one more important aspect of this story. How can the virginity remain sacred after the union with the partner? Gods and great rishis possess ashta siddis (eight divine powers) [^4] by means of which they can perform supernatural things.  
 	**वाचा दृष्ट्या तथा स्पर्शात्संघर्षणेति पंचधा**  
 	**मनुष्य धर्मोदैवेन धर्मेणहि नदुष्यति- Asramavasa Parvam, Mahabharatam**  
 	**(Gods and rishis can pregnant a lady by the power of their sankalpa,words,looks, touch and/or physical union – five ways of making a lady pregnant . Human dharma cannot become impure by Daiva dharma). The union of Parāśara with Satyavathi might be anyone of the first four ways.**
