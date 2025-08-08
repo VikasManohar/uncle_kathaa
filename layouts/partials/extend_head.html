@@ -48,10 +48,12 @@
                     element.textContent = count + ' views';
                     element.style.display = 'inline';
                 } else {
-                    element.style.display = 'none';
+                    // Remove the element from the DOM if count is zero
+                    element.parentNode && element.parentNode.removeChild(element);
                 }
             } catch (error) {
-                element.style.display = 'none';
+                // Remove the element from the DOM if there is an error
+                element.parentNode && element.parentNode.removeChild(element);
             }
         });
     });
