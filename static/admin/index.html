@@ -1,30 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-  <meta charset="UTF-8" />
-  <title>Editor | Uncle Kathaa</title>
-  <script src="https://benweet.github.io/stackedit.js"></script>
+    <title>StackEdit Blog Writer</title>
 </head>
+
 <body>
-  <h1>Markdown Editor</h1>
-  <button id="start-editor">Open Editor</button>
+    <h1>Write Your Blog</h1>
+    <button id="openStackEdit">Open Editor</button>
 
-  <script>
-    const stackedit = new Stackedit();
+    <!-- Load StackEdit.js from the correct CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/stackedit-js@1.0.6/docs/lib/stackedit.min.js"></script>
 
-    document.getElementById('start-editor').addEventListener('click', () => {
-      stackedit.openFile({
-        name: 'New post',
-        content: {
-          text: '# Start typing your story here\n\n- Point 1\n- Point 2'
-        }
-      });
+    <script>
+        // Ensure the script is loaded before using it
+        window.addEventListener('DOMContentLoaded', () => {
+            const stackedit = new Stackedit();
 
-      stackedit.on('fileChange', (file) => {
-        console.log('Updated markdown:', file.content.text);
-        // You can now POST this markdown content somewhere (e.g., via API)
-      });
-    });
-  </script>
+            document.getElementById('openStackEdit').addEventListener('click', () => {
+                stackedit.openFile({
+                    name: 'New Blog',
+                    content: {
+                        text: '# My New Blog\n\nWrite here...',
+                    },
+                });
+
+                stackedit.on('fileChange', (file) => {
+                    const content = file.content.text;
+                    console.log("Blog content:", content);
+                    // You can now send this to your backend or show a save button
+                });
+            });
+        });
+    </script>
 </body>
+
 </html>
