@@ -41,7 +41,7 @@ prose:
         field:
           label: "Share Buttons"
           type: "list"
-          value: "linkedin, x, facebook, whatsapp"
+          value: ["linkedin", "x", "facebook", "whatsapp"]
       - name: "ShowToc"
         field:
           label: "Show Table of Contents?"
