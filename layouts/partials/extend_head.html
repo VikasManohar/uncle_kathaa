@@ -45,11 +45,14 @@
 
             try {
                 const count = await fetchPageViews(path);
-                element.textContent = count + ' views';
-                element.style.display = 'inline';
+                if (count > 0) {
+                    element.textContent = count + ' views';
+                    element.style.display = 'inline';
+                } else {
+                    element.style.display = 'none';
+                }
             } catch (error) {
-                element.textContent = '0 views';
-                element.style.display = 'inline';
+                element.style.display = 'none';
             }
         });
     });
