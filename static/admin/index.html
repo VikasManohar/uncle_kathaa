@@ -1,15 +1,30 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>UncleKathaa Content Manager</title>
+  <meta charset="UTF-8" />
+  <title>Editor | Uncle Kathaa</title>
+  <script src="https://benweet.github.io/stackedit.js"></script>
 </head>
-
 <body>
-    <!-- Include the script that builds the page and powers Sveltia CMS -->
-    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
-</body>
+  <h1>Markdown Editor</h1>
+  <button id="start-editor">Open Editor</button>
 
+  <script>
+    const stackedit = new Stackedit();
+
+    document.getElementById('start-editor').addEventListener('click', () => {
+      stackedit.openFile({
+        name: 'New post',
+        content: {
+          text: '# Start typing your story here\n\n- Point 1\n- Point 2'
+        }
+      });
+
+      stackedit.on('fileChange', (file) => {
+        console.log('Updated markdown:', file.content.text);
+        // You can now POST this markdown content somewhere (e.g., via API)
+      });
+    });
+  </script>
+</body>
 </html>
