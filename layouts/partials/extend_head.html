@@ -22,7 +22,6 @@
     // Function to fetch and display page views
     async function fetchPageViews(path) {
         try {
-            console.log("Fetching page views for:", path);
             const response = await fetch(`https://unclekathaa.goatcounter.com/counter/${encodeURIComponent(path)}.json`);
             if (response.ok) {
                 const data = await response.json();
