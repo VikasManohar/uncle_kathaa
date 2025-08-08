@@ -39,7 +39,7 @@ For those who prefer visual and auditory experiences, Uncle Kathaa provides a co
 
 ## Connect with Dr. Karanam Nagarajarao
 
-You can find Dr. Rao and Uncle Kathaa on various platforms:
+You can find Dr. Karanam Nagarajarao and Uncle Kathaa on various platforms:
 
 - [YouTube](https://www.youtube.com/@drkaranamnagarajarao4591)
 - [Facebook](https://www.facebook.com/karanam.nagarajarao)
