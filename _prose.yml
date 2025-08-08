@@ -1,0 +1,69 @@
+prose:
+  siteurl: "https://unclekathaa.vercel.app"
+  media: "static/"
+  rooturl: "content/posts"
+  ignore:
+    - README.md
+    - hugo.yaml
+  metadata:
+    "content/posts":
+      - name: "title"
+        field:
+          label: "Post Title"
+          placeholder: "Enter the post title"
+          type: "text"
+      - name: "author"
+        field:
+          label: "Author"
+          value: "Dr. Karanam Nagarajarao"
+          type: "text"
+      - name: "date"
+        field:
+          label: "Date"
+          type: "datetime"
+          placeholder: "2024-04-08T23:50:15+05:30"
+      - name: "draft"
+        field:
+          label: "Is Draft?"
+          type: "boolean"
+          value: true
+      - name: "tags"
+        field:
+          label: "Tags"
+          type: "list"
+          placeholder: "Mahabharatha"
+      - name: "showReadingTime"
+        field:
+          label: "Show Reading Time?"
+          type: "boolean"
+          value: true
+      - name: "ShareButtons"
+        field:
+          label: "Share Buttons"
+          type: "list"
+          value: "linkedin, x, facebook, whatsapp"
+      - name: "ShowToc"
+        field:
+          label: "Show Table of Contents?"
+          type: "boolean"
+          value: true
+      - name: "cover"
+        field:
+          label: "Cover Image"
+          type: "object"
+          fields:
+            - name: "image"
+              field:
+                label: "Cover Image File Name"
+                type: "text"
+                placeholder: "Ganesha-Vyasa.webp"
+            - name: "hiddenInList"
+              field:
+                label: "Hide Image in List?"
+                type: "boolean"
+                value: true
+            - name: "caption"
+              field:
+                label: "Image Caption"
+                type: "text"
+                placeholder: "Image credit or source URL"
