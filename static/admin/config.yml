@@ -3,8 +3,8 @@ backend:
   repo: VikasManohar/uncle_kathaa
   branch: master
   auth_scope: repo
-  client_id: YOUR_CLIENT_ID
-  client_secret: YOUR_CLIENT_SECRET
+  client_id: GITHUB_CLIENT_ID
+  client_secret: GITHUB_CLIENT_SECRET
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
@@ -19,3 +19,4 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+
