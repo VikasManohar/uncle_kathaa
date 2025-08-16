@@ -2,37 +2,16 @@
 <html>
 
 <head>
-    <title>StackEdit Blog Writer</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UncleKathaa Content Manager</title>
+    <!-- Include the script that enables Netlify Identity on this page. -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
-    <h1>Write Your Blog</h1>
-    <button id="openStackEdit">Open Editor</button>
-
-    <!-- Load StackEdit.js from the correct CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/stackedit-js@1.0.6/docs/lib/stackedit.min.js"></script>
-
-    <script>
-        // Ensure the script is loaded before using it
-        window.addEventListener('DOMContentLoaded', () => {
-            const stackedit = new Stackedit();
-
-            document.getElementById('openStackEdit').addEventListener('click', () => {
-                stackedit.openFile({
-                    name: 'New Blog',
-                    content: {
-                        text: '# My New Blog\n\nWrite here...',
-                    },
-                });
-
-                stackedit.on('fileChange', (file) => {
-                    const content = file.content.text;
-                    console.log("Blog content:", content);
-                    // You can now send this to your backend or show a save button
-                });
-            });
-        });
-    </script>
+    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
 
 </html>
