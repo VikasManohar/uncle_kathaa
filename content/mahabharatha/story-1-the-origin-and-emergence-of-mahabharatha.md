@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "Ganesha-Vyasa.webp"
+    image: "mahabharatha/Ganesha-Vyasa.webp"
     hiddenInList: true
     caption: "https://qph.cf2.quoracdn.net/main-qimg-3af1a26c7f453374ed0512f8bd326bf1-pjlq"
 ---

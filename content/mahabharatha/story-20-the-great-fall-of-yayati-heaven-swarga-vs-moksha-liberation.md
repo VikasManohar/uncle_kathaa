@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story20.png"
+    image: "mahabharatha/story20.png"
     hiddenInList: true
     caption: "https://www.pinterest.com/pin/story-of-yayati%E2%80%93414753446928502650/"
 ---

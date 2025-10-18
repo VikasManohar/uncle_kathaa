@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story7.png"
+    image: "mahabharatha/story7.png"
     hiddenInList: true
     caption: "https://kids.iskcondesiretree.com/Gopal_Funschool_-_Chowpatty/01_-_Worksheets/04_-_Gopinath_-_10_to_14_years/Gopinath-Nitai/01_-_Sravanam/GOPINATH_NITAI_005.pdf"
 ---
@@ -109,4 +109,4 @@ Takshaka, a mighty serpent became a small insect. **This aspect of reducing sma
 
 [^5]: Amara Kosa mentions eight powers a person can attain - Aṇimā, Mahima, Garima, Laghima, Prāpti, Prākāmya, Iṣiṭva, Vaśitva. Aṇimā is the power of becoming smaller than the smallest.
 
-[^6]: [Story 6 - Characteristics of Satva and Rajas - Uttanka vis-à-vis King Paushya]({{< ref "story6.md" >}})
+[^6]: [Story 6 - Characteristics of Satva and Rajas - Uttanka vis-à-vis King Paushya]({{< ref "story-6-characteristics-of-satva-and-rajas-uttanka-vs-king-paushya.md" >}})

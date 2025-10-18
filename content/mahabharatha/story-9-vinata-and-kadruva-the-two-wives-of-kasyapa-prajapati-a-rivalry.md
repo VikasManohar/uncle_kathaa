@@ -1,7 +1,7 @@
 ---
 date: '2024-06-15T23:50:15+05:30'
 draft: false
-title: 'Story 9 - Vinata & Kadruva (the two wives of Kasyapa Prajapati)- A rivalry'
+title: 'Story 9 - Vinata and Kadruva (the two wives of Kasyapa Prajapati)- A rivalry'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
 author: "Dr. Karanam Nagarajarao"
@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story9.png"
+    image: "mahabharatha/story9.png"
     hiddenInList: true
     caption: "https://mahabharatham.arasan.info/2013/02/Mahabharatha-Adiparva-Section20.html"
 ---

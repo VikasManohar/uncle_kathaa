@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story22.png"
+    image: "mahabharatha/story22.png"
     hiddenInList: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-27T23:50:15+05:30'
 draft: false
-title: 'Story - 16 Mrutha Sanjīvanī – A quest for victory over Death'
+title: 'Story 16 - Mrutha Sanjīvanī – A quest for victory over Death'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
 author: "Dr. Karanam Nagarajarao"
@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story16.png"
+    image: "mahabharatha/story16.png"
     hiddenInList: true
     caption: "https://blog.sagarworld.com/itihaas/story-of-guru-shukracharya-chapter-9/"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-20T23:50:15+05:30'
 draft: false
-title: 'Story 17 - A Discussion on Slavery in Ancient India - The Story of Devayani & Sarmishta'
+title: 'Story 17 - A Discussion on Slavery in Ancient India - The Story of Devayani and Sarmishta'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
 author: "Dr. Karanam Nagarajarao"
@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story17.png"
+    image: "mahabharatha/story17.png"
     hiddenInList: true
     caption: "https://th-i.thgim.com/public/society/history-and-culture/article22366865.ece/alternates/LANDSCAPE_1200/05frDevayanijpg"
 ---

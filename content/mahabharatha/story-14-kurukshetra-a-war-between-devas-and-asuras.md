@@ -1,7 +1,7 @@
 ---
 date: '2024-08-03T23:50:15+05:30'
 draft: false
-title: 'Story 14 - Kurukshetra - a war between Devas & Asuras (Aṃśāvatāra Parvam)'
+title: 'Story 14 - Kurukshetra - a war between Devas and Asuras (Aṃśāvatāra Parvam)'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
 author: "Dr. Karanam Nagarajarao"
@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story14.png"
+    image: "mahabharatha/story14.png"
     hiddenInList: true
     caption: "https://en.wikipedia.org/wiki/Brahma"
 ---

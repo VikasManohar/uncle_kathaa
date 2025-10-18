@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story21.png"
+    image: "mahabharatha/story21.png"
     hiddenInList: true
     caption: "https://bhargavasarma.blogspot.com/2015/01/ashta-vasus-elemental-gods.html"
 ---

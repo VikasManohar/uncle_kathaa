@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story6.png"
+    image: "mahabharatha/story6.png"
     hiddenInList: true
     caption: "https://media.assettype.com/TNIE%2Fimport%2F2018%2F4%2F5%2Foriginal%2Fgetting.jpg?w=768&auto=format%2Ccompress&fit=max"
 ---

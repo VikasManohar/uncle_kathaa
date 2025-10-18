@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story19.png"
+    image: "mahabharatha/story19.png"
     hiddenInList: true
     caption: "https://www.vyasaonline.com/wp-content/uploads/2017/01/Yayati-3.jpg"
 ---

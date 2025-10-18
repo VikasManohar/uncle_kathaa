@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story13.png"
+    image: "mahabharatha/story13.png"
     hiddenInList: true
     caption: "https://qph.cf2.quoracdn.net/main-qimg-ace722aa4624ca22bb5cab0ceccb6a4f"
 ---

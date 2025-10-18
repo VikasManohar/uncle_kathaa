@@ -11,7 +11,7 @@ ShowToc: true
 tags:
     - Mahabharatha
 cover:
-    image: "story-2.webp"
+    image: "mahabharatha/story-2.webp"
     hiddenInList: true
     caption: "https://draupadiparashakti.com/wp-content/uploads/2022/11/1920px-00005_Janamejaya_and_brothers.jpg"
 ---

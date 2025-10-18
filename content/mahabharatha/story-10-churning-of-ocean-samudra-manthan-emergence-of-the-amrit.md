@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story10.png"
+    image: "mahabharatha/story10.png"
     hiddenInList: true
     caption: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Samudra-Manthan-The-Churning-of-the-Ocean-of-Milk.jpg/640px-Samudra-Manthan-The-Churning-of-the-Ocean-of-Milk.jpg"
 ---

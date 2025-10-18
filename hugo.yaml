@@ -25,7 +25,7 @@ params:
       Uncle Kathaa, where the experiences and wisdom of Dr. Karanam Nagaraja Rao comes to life through a rich tapestry of stories, articles, and insights.
 
       Dr. Rao, a retired Professor with a wealth of experience, has curated a space that reflects his extensive journey in academia, insurance, and a deep exploration of Indian heritage.
-    imageUrl: "/image.webp" # optional
+    imageUrl: "about/image.webp" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
@@ -54,11 +54,16 @@ params:
     minMatchCharLength: 4
     limit: 10
     keys: ["title", "content"]
+  # treat mahabharatha as a main section so the theme lists it like posts
+  mainSections: ["posts", "mahabharatha"]
 outputs:
   home:
     - JSON
     - HTML
     - RSS
+permalinks:
+  posts: /:sections/:slug/
+  mahabharatha: /mahabharatha/:slug/
 menu:
   main:
     - identifier: Search

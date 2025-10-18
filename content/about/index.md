@@ -8,7 +8,7 @@ hidemeta: true
 ShareButtons: ["linkedin", "x", "facebook", "whatsapp"]
 searchHidden: true
 cover:
-    image: "image.webp"
+    image: "about/image.webp"
     hiddenInList: true
 ---
 

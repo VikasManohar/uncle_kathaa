@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story8.png"
+    image: "mahabharatha/story8.png"
     hiddenInList: true
     caption: "https://draupadiparashakti.com/wp-content/uploads/2023/03/Devi_Manasa-742%C3%971024.jpg"
 ---

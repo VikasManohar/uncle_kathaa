@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story15.png"
+    image: "mahabharatha/story15.png"
     hiddenInList: true
     caption: "https://kathakids.com/static/story-images/2019/07/Shakuntala.jpg"
 ---

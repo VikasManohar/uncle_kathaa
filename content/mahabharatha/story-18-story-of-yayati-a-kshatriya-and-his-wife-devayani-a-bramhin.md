@@ -1,7 +1,7 @@
 ---
 date: '2025-03-18T23:50:15+05:30'
 draft: false
-title: 'Story 18 - Story of Yayāti (a Khatriya) and his wife, Devayani (a Bramhin)'
+title: 'Story 18 - Story of Yayāti (a Kshatriya) and his wife, Devayani (a Bramhin)'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
 author: "Dr. Karanam Nagarajarao"
@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story18.png"
+    image: "mahabharatha/story18.png"
     hiddenInList: true
 ---
 
@@ -60,7 +60,7 @@ Years rolled by and one day both Sarmishta and Devayani set out for forest. They
 Devayani said,
 
 **संसृष्टं ब्रह्मणा क्षत्रं क्षत्रेण ब्रह्म संहितम् (Adi Parva 81.19)**  
-‘Hi, Maharaj, for long the both Varnas- Bramhins and Khatriyas are getting united. So, you can marry me’ [^4] pleaded Devayani. She requested her father, Sukrācārya to interfere in the matter. Yayāti was afraid of the sin of वर्ण सांकर्यं (Varṇa sāṃkaryaṃ) and he requested that he should be exonerated from the sin. Sukrācārya agreed and consented for the marriage of a Kshatriya with a Brahmin girl.
+‘Hi, Maharaj, for long the both Varnas- Bramhins and Kshatriyas are getting united. So, you can marry me’ [^4] pleaded Devayani. She requested her father, Sukrācārya to interfere in the matter. Yayāti was afraid of the sin of वर्ण सांकर्यं (Varṇa sāṃkaryaṃ) and he requested that he should be exonerated from the sin. Sukrācārya agreed and consented for the marriage of a Kshatriya with a Brahmin girl.
 
 But, before marriage he put a condition to Yayāti that he should not develop any affair with Sarmishta (now a slave to Devayani).
 

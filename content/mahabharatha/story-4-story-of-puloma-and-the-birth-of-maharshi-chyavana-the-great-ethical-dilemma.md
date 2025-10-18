@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story4.png"
+    image: "mahabharatha/story4.png"
     hiddenInList: true
     caption: "https://vedicfeed.com/wp-content/uploads/2020/06/Agni-Deva.jpg"
 ---

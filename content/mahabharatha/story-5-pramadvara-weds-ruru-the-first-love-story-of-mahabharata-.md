@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story5.png"
+    image: "mahabharatha/story5.png"
     hiddenInList: true
     caption: "https://talkingmyths.com/wp-content/uploads/2018/05/Pramadvara.jpg"
 ---

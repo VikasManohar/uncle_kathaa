@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story12.png"
+    image: "mahabharatha/story12.png"
     hiddenInList: true
     caption: "https://www.indica.today/wp-content/uploads/2020/05/114970-pauvuigiux-15523075141.jpg"
 ---

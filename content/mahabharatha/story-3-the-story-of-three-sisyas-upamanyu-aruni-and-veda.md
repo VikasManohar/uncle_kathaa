@@ -1,7 +1,7 @@
 ---
 date: '2024-04-26T23:50:15+05:30'
 draft: false
-title: 'Story 3 - The story of three śiṣyās - Upamanyu, Aruni & Veda'
+title: 'Story 3 - The story of three śiṣyās - Upamanyu, Aruni and Veda'
 # description: ''
 # summary: 'Emergence of Mahabharatha'
 author: "Dr. Karanam Nagarajarao"
@@ -11,7 +11,7 @@ ShowToc: true
 tags: 
     - Mahabharatha
 cover:
-    image: "story3.png"
+    image: "mahabharatha/story3.png"
     hiddenInList: true
     caption: "https://hindutempletalk.org/wp-content/uploads/2021/08/IMG_20210822_211411_compress81-346%C3%97188.jpg"
 ---
