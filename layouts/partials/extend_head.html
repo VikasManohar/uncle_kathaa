@@ -7,15 +7,15 @@
     <!-- Required Open Graph tags -->
     <meta property="og:title" content="Uncle Kathaa" />
     <meta property="og:description" content="Stories of wisdom, culture, and heritage curated by Dr. Karanam Nagarajarao." />
-    <meta property="og:image" content="https://unclekathaa.vercel.app/og-image.png" />
-    <meta property="og:url" content="https://unclekathaa.vercel.app/" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}og-image.png" />
+    <meta property="og:url" content="{{ .Site.BaseURL }}" />
     <meta property="og:type" content="website" />
 
     <!-- Twitter card (optional but recommended) -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Uncle Kathaa" />
     <meta name="twitter:description" content="Stories of wisdom, culture, and heritage curated by Dr. Karanam Nagarajarao." />
-    <meta name="twitter:image" content="https://unclekathaa.vercel.app/og-image.png" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}og-image.png" />
 </head> section of every page. */ -}}
 {{- /* Can be overwritten by partial with the same name in the global layouts. */ -}}
 
