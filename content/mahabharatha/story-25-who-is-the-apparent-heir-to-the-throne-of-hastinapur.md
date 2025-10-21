@@ -1,7 +1,7 @@
 ---
 date: '2025-09-21T00:00:00+05:30'
 draft: false
-title: 'Story 25 - Who is the heir apparent to the throne of Hastinapur?'
+title: 'Story 25 - Who is the apparent heir to the throne of Hastinapur?'
 # description: ''
 # summary: 'Origins of Vidura and the curse of Mandavya; reflections on dharma and niyoga'
 author: "Dr. Karanam Nagarajarao"
