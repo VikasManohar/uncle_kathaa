@@ -110,7 +110,7 @@ What she answered, and what destiny unfolded, shall be told in the next story.
 
 ### Points to ponder
 
-1. The Curse of Kindama – The Ethics of Desire and Ignorance**
+1. The Curse of Kindama – The Ethics of Desire and Ignorance
 
 	In *Ādi Parva* (Ślokas 12-17 of Chapter 117, Gita Press), Pāṇḍu argues from *kṣatriya dharma* that hunting is no sin when done in ignorance. It is dharma of a king to kill animals and protect people. Yet Vyāsa subtly presents a deeper moral layer: **sin may arise not from intent alone, but from timing and blindness of passion also.** The act of killing animals when they are satiating the biological urge is morally not acceptable.
 
