@@ -148,7 +148,7 @@ The episode thus blends *kṣatriya justification* with *āśrama ethics*, showi
 
 	This is why Bhīṣma, Vidura, and even Dhṛtarāṣṭra himself at times admit that **Yudhiṣṭhira is the rightful heir**.
 
-### Questions: Bottom of Form
+### Questions
 
 1. ‘One may be legally right, but morally wrong’ – what does it mean? Give some examples from your own understanding of the world.
 2. What are the four *āśramas* specified in our Dharma?
