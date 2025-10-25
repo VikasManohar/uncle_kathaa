@@ -4,7 +4,7 @@ draft: false
 title: 'Story 26 - The Curse of Kindama and the Departure of King Pāṇḍu'
 # description: ''
 # summary: 'Origins of Vidura and the curse of Mandavya; reflections on dharma and niyoga'
-slug: 'story-26–the-curse-of-kindama-and-the-departure-of-king-pandu'
+slug: 'story-26-the-curse-of-kindama-and-the-departure-of-king-pandu'
 author: "Dr. Karanam Nagarajarao"
 showReadingTime: true
 ShareButtons: ["linkedin", "x", "facebook", "whatsapp"]
