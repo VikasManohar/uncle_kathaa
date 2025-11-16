@@ -25,7 +25,7 @@ After the curse of sage Kindama, King Pāṇḍu lived in the forest with his tw
 
 The thought of lacking progeny was haunting King Pāṇḍu always. The tradition believes that those who don’t have children cannot redeem their debt to their forefathers (pitru rina [^2]). How can he have children? The curse of the deer (Kindama) is hanging like a Damocles’ sword over his head. One day he took Kunti into confidence and advised her to have children as per dharma since he cannot beget children with her. He explained the nuances of dharma and the twelve types of begetting children [^3] as per societal morals prevailing in the times.
 
-Kunti was little perturbed. She believed that a woman’s chastity is her highest ornament. She pleaded as to how a chaste lady can have children with someone other than her husband. Then she narrated a story of one king by name व्युषिताश्व (Vyuṣitāśva), a great king with an Asvamedha credit to illustrate her point that a chaste woman can have children with divine grace.
+Kunti was little perturbed. She believed that a woman’s chastity is her highest ornament. She pleaded as to how a chaste lady can have children with someone other than her husband. Then she narrated a story of one king by name **व्युषिताश्व (Vyuṣitāśva)**, a great king with an Asvamedha credit to illustrate her point that a chaste woman can have children with divine grace.
 
 ### Story of Vyuṣitāśva & Bhadra
 
@@ -33,7 +33,7 @@ Vyuṣitāśva died at an early age without progeny. His wife Bhadra wept and we
 
 But divine blessings cannot happen for everybody. Having known this limitation, King Pāṇḍu said, ‘Have you not heard the story of the great sage, Svetaketu? One day an old Brahmin wanted to have his mother and held her hand in the presence of his father; and Swetaketu got very angry and restricted and restrained ladies from having an affair with other men. Svetaketu rejected the free sex for ladies and made it a sin”.
 
-King Pāṇḍu continued, “but a lady can have children from other man if she was requested by her own husband. Madayanthi, the wife of king कल्माषपाद (Kalmāṣapāda) had a son, Ashmaka with sage Vasishta on the advice of her husband. My brothers Dhritarashtra and Vidura and I have born to Ved Vyasa in the same way. Having children with the consent of husband by other man is not far from dharma. One should preserve one’s lineage and for this purpose it is necessary to have children by other means by taking the husband into confidence. You please do as I request you to do and preserve our lineage on the planet’. Thus, he entreated Kuntī to consider his request and Kunti could no longer reject the idea of her husband.
+King Pāṇḍu continued, “but a lady can have children from other man if she was requested by her own husband. Madayanthi, the wife of king **कल्माषपाद (Kalmāṣapāda)** had a son, Ashmaka with sage Vasishta on the advice of her husband. My brothers Dhritarashtra and Vidura and I have born to Ved Vyasa in the same way. Having children with the consent of husband by other man is not far from dharma. One should preserve one’s lineage and for this purpose it is necessary to have children by other means by taking the husband into confidence. You please do as I request you to do and preserve our lineage on the planet’. Thus, he entreated Kuntī to consider his request and Kunti could no longer reject the idea of her husband.
 
 ### Birth of Pānḍavās
 
@@ -42,7 +42,9 @@ Hearing this, Pāṇḍu’s face lit with joy: “O auspicious one, you possess
 
 ### The Birth of Yudhiṣṭhira, Bhīma, and Arjuna
 
-King Pāṇḍu had a great belief that the country cannot be ruled righteously with out Dharma. He requested Kunti to invoke Dharmadevatha since he was the embodiment of righteousness (धर्ममावाहय शुभे सहि लोकेषु पुण्यभाक् [^4]) – Adi Parva 121.17)
+King Pāṇḍu had a great belief that the country cannot be ruled righteously with out Dharma. He requested Kunti to invoke Dharmadevatha since he was the embodiment of righteousness 
+
+(**धर्ममावाहय शुभे सहि लोकेषु पुण्यभाक्** [^4]) – Adi Parva 121.17)
 
 Obeying her husband’s will, Kuntī first invoked **Dharma-deva**.
 A son was born — calm, wise, and steadfast. The hermits named him **Yudhiṣṭhira**, saying, *“This child will be the embodiment of truth and justice.”*
@@ -62,7 +64,7 @@ Thus was born **Arjuna**, the peerless hero.
 
 Pāṇḍu’s desire for children was endless. He desired more and sons and asked Kuntī to invoke another God. But Kuntī replied:
 
-“O King, enough! Three sons I have borne by three great Gods. Let this not go beyond the bounds of modesty. I am not free to call again upon the celestials. Should I call once more, the world may reproach me for transgressing womanly limits. It may be fine to invoke Gods for two or three children as part of āpaddharma, but inviting a God for a fourth son looks obnoxious and people may call me स्वैरिणी (svairiṇī) - a free for all lady; and if I invoke fifth God for progeny, people may call me बंधकी (bandhaki) - a prostitute. Pāṇḍu could not talk any more.
+“O King, enough! Three sons I have borne by three great Gods. Let this not go beyond the bounds of modesty. I am not free to call again upon the celestials. Should I call once more, the world may reproach me for transgressing womanly limits. It may be fine to invoke Gods for two or three children as part of āpaddharma, but inviting a God for a fourth son looks obnoxious and people may call me **स्वैरिणी (svairiṇī)** - a free for all lady; and if I invoke fifth God for progeny, people may call me **बंधकी (bandhaki)** - a prostitute. Pāṇḍu could not talk any more.
 
 ### Mādrī’s urge for children
 
