@@ -87,25 +87,25 @@ The brought up of Pāṇḍavas by Pāṇḍu and his eventual death will be dis
 5. **Was a husband supreme and authoritative over his wife?** The answer is no. In the families, a healthy discussion used to take place between a husband and wife to decide important issues. When king Pāṇḍu desired for children, it was for a dharmic cause and Kunti could not refuse. She gave the freedom to her husband to select the God of his choice before invoking mantra, thereby exhibiting her chastity. But when the king wanted more and more children, she cited dharmic principles and politely denied his request. She also denied the request of her husband and did not invoke mantra for the sake of Mādrī for a third child. When the wife is strong on dharmic ground, the husband used to listen and never tried to dominate her. The wife used to enjoy all freedoms with in the boundary of family life.
 
 [^1]: This story is taken from Adi Parva of Mahabharata written by sage Ved Vyasa
-[^2]: **In Hindu tradition there are three debts for every one born in the society -**
+[^2]: **In Hindu tradition there are three debts for every one born in the society:**
     1. Pitru rin (debt to parents and fore fathers) - Since parents are responsible for our birth and upbringing, it is obligatory to take care of them when they are old. To have children and perpetuate the lineage is the tribute that we can do to our fore fathers. (For elaborate details of these three debts one should read the basic tenets of Hinduism).
-    2. Dev rin (debt to gods)- This is the debt to the one who creates and sustains the universe for us. This can be discharged by abiding in prayer and living in harmony with cosmic forces.
+    2. Dev rin (debt to gods) - This is the debt to the one who creates and sustains the universe for us. This can be discharged by abiding in prayer and living in harmony with cosmic forces.
     3. Rishi rin (debt to the sages) - The sages have transmitted knowledge to us through Vedas and Upanishads. The debt is discharged by reading and teaching and spreading the gospel of righteousness to all people.
    
 [^3]: Twelve types of begetting children -
     **Maha Bharata discusses the ways of begetting sons. They are as follows:**
-    1. Svayaṃjāta - स्वयंजात -(also known as Aurasa- औरस) - a son begotten by the man himself from his legitimate wife.
-    2. Kshetraja - क्षेत्रज (Also called Niyoga- नियोग) On the advice of husband, a son born to his wife by others
-    3. Dattaka- दत्तक -a son born to other parents but given as a gift to a person
-    4. Kritrima - कृत्रिम- Someone who was brought out of affection and reared up as son.
-    5. Gudotpanna - गूढोत्पन्ना -a son born from the legally wedded wife by someone without one’s knowledge.
-    6. Apaviddha- अपविद्धा -a child deserted by some parents and reared up as son by a person
-    7. Kānīna-  कानीन- Son secretly born to an unmarried woman. The secretly born child to a maiden in her father’s house is known as the Kānīna son of the one who marries her.
-    8. Sahodha- - सहोढ -a son born to the wife who by the time of marriage was pregnant by some other man.
+    1. Svayaṃjāta - स्वयंजात - (also known as Aurasa - औरस) - a son begotten by the man himself from his legitimate wife.
+    2. Kshetraja - क्षेत्रज (Also called Niyoga - नियोग) On the advice of husband, a son born to his wife by others
+    3. Dattaka - दत्तक - a son born to other parents but given as a gift to a person
+    4. Kritrima - कृत्रिम - Someone who was brought out of affection and reared up as son.
+    5. Gudotpanna - गूढोत्पन्ना - a son born from the legally wedded wife by someone without one’s knowledge.
+    6. Apaviddha - अपविद्धा - a child deserted by some parents and reared up as son by a person
+    7. Kānīna -  कानीन - Son secretly born to an unmarried woman. The secretly born child to a maiden in her father’s house is known as the Kānīna son of the one who marries her.
+    8. Sahodha - सहोढ - a son born to the wife who by the time of marriage was pregnant by some other man.
     9. Kreetha - क्रीत- a child born to other parents and bought for money by a person
-    10. Paunarbhava- पौनर्भव- the son born to a woman deserted by her husband or a remarried widow by a person
-    11. Svayamdatta- स्वयं दत्त - a boy comes on his own pleading to take him up as a son
-    12. Jjñāta - ज्ञात -a child of same gotra (In Hindu culture, the term gotra is almost akin to clan. It refers to people who are descendants in an unbroken male line from a common male ancestor.
+    10. Paunarbhava - पौनर्भव - the son born to a woman deserted by her husband or a remarried widow by a person
+    11. Svayamdatta - स्वयं दत्त - a boy comes on his own pleading to take him up as a son
+    12. Jjñāta - ज्ञात - a child of same gotra (In Hindu culture, the term gotra is almost akin to clan. It refers to people who are descendants in an unbroken male line from a common male ancestor.
   
     There are different versions in the order of social acceptability as per Ved Vyasa, Manu and other later law givers of Hindu code of Personal Law. In this the first two types- Aurasa and kshetraja are of higher social order.
    
