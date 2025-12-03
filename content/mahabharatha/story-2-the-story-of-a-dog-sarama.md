@@ -18,7 +18,7 @@ cover:
 
 #### _(Vedavyasa Mahabharatam – the story, the ethics, morals & the traditions)_
 
-Very interestingly, the first and the last story of Mahabharata is that of a dog. The king of Hastinapura, Janamejaya (Arjuna’s son is Parikshit and his son is Janamejaya) was performing a **satra yāgaṃ** assisted by his three brothers- Sruthasena, Ugrasena and Bhimasena. Satra yāgaṃ was supposed to **benefit the humanity** at large and the king was interested in it.
+Very interestingly, the first and the last story of Mahabharata is that of a dog. The king of Hastinapura, Janamejaya (Arjuna’s son is Abhimanyu, Abhimanyu’s son is Parikshit, and his son is Janamejaya) was performing a **satra yāgaṃ** assisted by his three brothers- Sruthasena, Ugrasena and Bhimasena. Satra yāgaṃ was supposed to **benefit the humanity** at large and the king was interested in it.
 
 ### **The story of the first dog**
 
